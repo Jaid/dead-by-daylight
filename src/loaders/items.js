@@ -10,6 +10,7 @@ function normalize(id, item) {
     type: item.type || null,
     title: item.title || titleCase(id),
     visible: item.visible === undefined ? true : item.visible,
+    rarity: item.rarity || "common",
   }
   if (normalizedItem.visible) {
     normalizedItem.released = item.released === undefined ? true : item.released
