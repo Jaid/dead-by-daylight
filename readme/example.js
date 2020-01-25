@@ -1,3 +1,3 @@
 import deadByDaylight from "dead-by-daylight"
 
-result = deadByDaylight.perks.hauntedGround
+const result = deadByDaylight.perks.hauntedGround
