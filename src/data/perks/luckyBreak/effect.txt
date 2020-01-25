@@ -1,0 +1,1 @@
+{this} activates any time you are injured. You won't leave trails of blood for a total of {tiers:120/150/180} seconds. {this} is permanently deactivated for the remainder of the trial once the total duration has elapsed.

@@ -1,0 +1,1 @@
+Unlocks the ability to heal yourself without a healing item at 50% the normal healing speed. Increases the efficiency of healing item self-heal by {tiers:10%/15%/20%}.

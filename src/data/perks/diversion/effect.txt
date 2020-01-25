@@ -1,0 +1,4 @@
+Standing within the Killer's Terror Radius while not in a Chase for 45 seconds activates the Perk.
+Once the Perk is activated, press the Active Ability button while crouched and motionless to throw a pebble, which creates a distraction for the Killer at a distance of {tiers:10/15/20} meters.
+The perk timer resets once it has been used.
+The distraction consists of a loud noise notification and scratch marks.

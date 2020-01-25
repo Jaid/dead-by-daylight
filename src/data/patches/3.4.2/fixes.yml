@@ -1,0 +1,47 @@
+- Fixed an issue that could cause a crash when loading into a match.
+- Fixed an issue that caused players to become stuck in the Play As Survivor pre-lobby when accepting an invite from a user in a full lobby.
+- Fixed an issue that could cause a crash when the user cycled through searching for a lobby and opening the Store.
+- for: nemesis, furtiveChase
+  text: Fixed an issue that caused {nemesis} not to trigger on an Obsession switch from {furtiveChase}.
+- for: breakout
+  text: Fixed an issue that caused {breakout} not to reactivate when being healed from the dying state within 6 meters of a Survivor being carried by the Killer.
+- for: sprintBurst
+  text: Fixed an issue that allowed Survivors to sprint without using {sprintBurst} when slow vaulting a window and pressing the sprint button as the animation started.
+- Fixed an issue that caused the flashlight item to deplete charges when using the flashlight while performing interactions.
+- for: oni
+  text: Fixed an issue that allowed {oni} to rotate faster than intended when using the keyboard or joysticks during Demon Dash.
+- for: oni
+  text: Fixed an issue that could cause {oni} to go through vault points when hitting a Survivor with Demon Strike.
+- for: oni
+  text: Fixed an issue that caused {oni} to get stuck in the Demon Strike animation when stunned by a pallet during the animation.
+- for: oni
+  text: Fixed an issue that cause {oni} to gain blood orbs when hitting an injured Survivor affected by the Endurance status effect.
+- for: oni
+  text: Fixed an issue that caused {oni}'s blood orbs to remain partially in a locker when an injured Survivor left the locker.
+- for: oni
+  text: Fixed an issue that caused the red glow on {oni}'s eyes to be visible when wearing the Very Rare head customization.
+- for: doctor
+  text: Fixed an issue that caused {doctor}'s power, add-ons and loading tips to erroneously display incorrect text.
+- for: demogorgon
+  text: Fixed an issue that could cause the Oblivious status effect to persist when destroying a {demogorgon} portal.
+- for: nurse
+  text: Fixed an issue that caused {nurse} to move at 3.85 m/s when fatigued if she charged the 2nd blink.
+- for: hag
+  text: Fixed an issue that caused {hag}'s animation to abruptly stop when carrying a Survivor and stopping movement.
+- for: spirit
+  text: Fixed an issue that caused the phase walking VFX to carry over to the tally screen if the match ended while {spirit} was using her power.
+- Fixed an issue that caused players to become stuck behind a lantern next to the temple in the Sanctum of Wrath map.
+- Fixed an issue that caused lowered FPS in the Preschool basement in the Badham Preschool maps.
+- Fixed an issue that caused some puddles of water to have LOD issues in the Family Residence map.
+- Fixed an issue that caused some female Survivors to have items clip during their idle animation.
+- Fixed an issue that caused the match start SFX to play when in a Custom Game lobby without a Killer and all Survivors readied up.
+- Fixed an issue that caused struggling SFX to be inconsistent when wiggling on certain Killers shoulders.
+- Fixed an issue that caused the Killers carrying SFX to keep playing after hooking a Survivor.
+- Fixed an issue that caused players to become stuck in an empty custom lobby when accepting an invite from someone that joined the lobby.
+- Fixed an issue that caused some Killers not to hear menu music when returning to the lobby from a Custom Game match.
+- Misc cosmetic and VFX fixes, improvements and optimizations.
+- Fixed an issue that could cause a desync and/or being unable to move as the Killer after damaging a generator.
+- Fixed an issue that could cause a desync between clients and host.
+- for: trapper
+  text: Fixed an issue that could cause {trapper} to get caught in a bear trap that was just set.
+- Fixed an issue that caused focusing on the application while the pause menu is open caused the player to perform their hit action.

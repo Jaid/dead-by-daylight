@@ -1,0 +1,4 @@
+{flavor:You are a battler and do everything to escape a foe's grasp.}
+
+Your struggling effects on the Killer are increased by {tiers:25%/50%/75%}.
+You obscure the Killer's ability to see hook auras within {tiers:10/12/14} meters.

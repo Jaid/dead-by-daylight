@@ -1,0 +1,5 @@
+- "Map changes: Reverted the increased chances to spawn blinking signs in the hallways surrounding rooms containing a generator in the Treatment Theater map. This change was reverted due to an issue causing the position of the signs to not always match with the generators positions'."
+- for: legion
+  text: Reverted change to {legion}, in which the Deep Wound timer was set to 20 seconds when hitting an injured Survivor with Feral Frenzy. Deep Wound timer should be back to 30 seconds.
+- for: selfCare
+  text: Reverted the changes to {selfCare}.

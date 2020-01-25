@@ -1,0 +1,74 @@
+- for: oni
+  text: Fixed an issue that caused not all Survivors to see blood orbs when {oni} had the Renjiro's Bloody Glove add-on equipped.
+- for: wraith, spirit
+  text: Fixed an issue that caused {wraith} and {spirit} not to have their re-appearance lunge speed burst.
+- for: nightmare
+  text: Fixed an issue that could cause {nightmare} to be unable to place Dream Snares if stunned while placing one.
+- for: trapper
+  text: Fixed an issue that caused {trapper} not to properly trigger his own bear traps when set by the Iridescent Stone add-on.
+- for: doctor
+  text: Fixed an issue that caused {doctor}'s Iridescent King add-on not to always apply its 5 afflictions within 5 shocks. In addition to this bug fix, we also added scoring events for feedback on which afflictions were applied.
+- for: hag
+  text: Fixed an issue that caused Survivors to block a part of {hag}'s screen when performing a basic attack while carrying a Survivor.
+- for: hag, hillbilly, demogorgon
+  text: Fixed an issue that allowed {hag}, {hillbilly} and {demogorgon} to interact with cleansed totem debris.
+- for: ghostFace
+  text: Fixed an issue that caused {ghostFace} to see inside assets when attacking while having a Survivor on their shoulder.
+
+- for: pig
+  text: Fixed an issue that made it impossible to interact with a specific chest or {pig}'s Jigsaw box when in front of a tree in the Temple of Purgation map.
+- Fixed an issue that caused the camera to clip through walls when being sacrificed on specific hooks in the Hawkins National Laboratory map.
+- Fixed an issue that caused some of the flags inside the manor building to have missing textures on one side in the Family Residence map.
+- for: pig
+  text: Fixed an issue that made it impossible to interact with a specific chest of {pig}'s Jigsaw box when it spawned facing a Buddha statue in the Sanctum of Wrath map.
+- for: nurse
+  text: Fixed an issue that made it difficult for {nurse} to blink in or around the gazebo tile in the Yamaoka Estate maps.
+- Fixed an issue that cause the small boats in the Backwater Swamp maps to have incorrect textures.
+- Fixed an issue that caused the tops of the corn to appear black in the Coldwind Farm maps.
+- Fixed an issue that caused the railing just in front of the basement in the farm house to partially lack collision in the Thompson House map.
+- Fixed an issue that caused a visible ground seam in the lodge of the Blood Lodge map.
+- Fixed an issue that could cause a placeholder tile to spawn in the Wrecker's Yard map.
+- Fixed an issue that caused the chandelier in the chapel to be floating unattached to anything in the Father Campbell's Chapel map.
+- Fixed an issue that allowed players to climb on top of a rock in the Father Campbell's Chapel map.
+- Fixed an issue that caused an impassable gap for Killers when a tree spawned too close to the asylum building in the Disturbed Ward map.
+- Fixed an issue that caused the windows and walls to be misaligned in the 2 story house in the Badham Preschool maps.
+- Fixed an issue that caused players to be floating above the ground on most tiles in the Mount Ormond Resort map.
+- Fixed an issue that caused a log pile to be lacking hitbox collision, allowing projectiles and {cannibal}'s chainsaw not to detect collision in the Lampkin Lane map.
+- Moved the generator on the top floor of a 2 story house that caused players to undesirably vault the window instead of repair.
+- Darkened the grass texture in the Lampkin Lane map.
+- Misc LOD fixes and improvements.
+
+- for: kindred
+  text: Fixed an issue that caused {kindred} to stay active when the perk owner disconnected while it was active.
+- for: sprintBurst
+  text: Fixed an issue that caused {sprintBurst} to trigger when the button was pressed during specific interactions where the player moves but cannot sprint (vaulting, entering/exiting locker).
+
+- Fixed an issue that could cause the 4th Survivor slot in the public lobby not to fill.
+- Potentially fixed an issue that could cause Survivors to have a permanent Haste effect from perks or when getting hit.
+- Fixed an issue that caused a loud noise notification to trigger on the exit gates when they were powered.
+- Fixed an issue that could cause players to become stuck between a hooked Survivor and a wall when canceling an unhook action.
+- Fixed an issue that caused Survivors to snap backwards when picking up and dropping an item without moving.
+- Fixed an issue that could cause the Killer to crash when loading into the match as The Nurse with the Mother Mercy outfit.
+- Fixed an issue that caused male Survivors hands to be floating above the Pool of Devotion when cleansing their sickness.
+- Fixed an issue that caused the bear trap in the beginning of the Killer Tutorial to appear closed.
+- Misc cosmetic and VFX fixes, improvements and optimizations.
+
+- Misc localization and translation improvements.
+
+- Fixed an issue that caused tooltips for items in the free track to overlap on the Tier progress.
+- Fixed an issue that caused Survivors killed by the End Game Collapse not to count towards the Reverent Challenge in Tome 1.
+- Fixed an issue that caused the Broken status effect to stay displayed on the portrait in the HUD of a Survivor that is sacrificed, killed or disconnected.
+- for: doctor
+  text: Fixed an issue that caused {doctor}'s Madness effect to stay displayed on the portrait in the HUD of a Survivor that is sacrificed, killed or disconnected.
+- Fixed an issue that caused the Archives widget to disappear from the tally screen when returning to it after spectating the match.
+- Fixed an issue that caused players rank to display inconsistently in the tally screen across all players if pips were lost or gained.
+- Fixed an issue that caused the spectate button to appear briefly despite not being able to spectate when leaving the tally screen.
+- for: clown
+  text: Fixed an issue that caused {clown}'s Reload progress bar to behave incorrectly when the Kill prompt was present in the HUD.
+- Fixed an issue that caused certain tooltips not to update when switching pages or characters.
+- Fixed an issue that caused the Character Info to disappear when searching for a match as a Survivor.
+- Fixed an issue that allowed non-host players in a Play As Survivor lobby to open the Archives while searching for a match.
+- Fixed an issue that caused the item tooltip to stay displayed when interacting with a node as a new Bloodweb level generates.
+- Fixed an issue that caused the banner to refresh each time when attempting to cycle through the new content when only 1 banner was available.
+- Fixed an issue that caused the switch role tooltip in Custom Game lobbies to display when the button was disabled.
+- Misc UI improvements.

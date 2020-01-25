@@ -1,0 +1,16 @@
+- for: nightmare
+  text: Dream pallets block Survivor auras.
+- Auras are blocked by Survivor's own body.
+- for: nightmare
+  text: Misc color and texture issues with Survivor hair while in the Dream World.
+- for: nightmare
+  text: Dream Snare and alarm clocks cannot be heard when starting the match in the Dream World.
+- for: nightmare
+  text: Map items do not reveal Dream Pallets.
+- Survivors escaping in crawl state are at running speed for other Survivors.
+- for: nightmare
+  text: Dream Snares cannot be seen from below.
+- for: nightmare
+  text: Dream Snares can be placed over holes, covering them.
+- Black texture flickering in the Backwater Swamp maps.
+- Placeholder score event when the Killer performs a totem interrupt.

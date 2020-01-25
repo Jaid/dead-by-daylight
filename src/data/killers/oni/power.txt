@@ -1,0 +1,10 @@
+Absorb Blood Orbs left by your injured foes. Press and hold the Power button to absorb Blood Orbs in the environment and fill your power gauge. When your power gauge is full, press and hold the Active Ability button to initiate Blood Fury.
+
+Blood Fury:
+While Blood Fury is active, {oni} becomes lethal and gains access to additional abilities: Demon Dash and Demon Strike.
+
+Demon Dash:
+Press and hold the Power button while Blood Fury is active to perform a Demon Dash. The ability allows {oni} to cover large distances at high speed.
+
+Demon Strike:
+Press and hold the Attack button while Blood Fury is active to perform a Demon Strike in the direction you are facing. Demon Strike has an extended lunge range and successful hits immediatly put healthy Survivors into the dying state.

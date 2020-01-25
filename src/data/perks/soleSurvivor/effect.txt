@@ -1,0 +1,5 @@
+{flavor:As more of your friends fall to the killer, you become shrouded in isolation and the Killer's aura reading abilities towards you are disrupted.}
+
+Your aura cannot be read by the killer within a max range of {tiers:20/22/24} meters for each killed or sacrificed survivor.
+Increases your changes of being the killer's obsession.
+The Killer can be Obsessed with one survivor at a time.

@@ -1,0 +1,8 @@
+- for: kate
+  text: "{kate}'s hair and t-shirts are stretching when running or performing an action"
+- for: clown, tinkerer
+  text: "{clown}'s reload related add-ons are currently affected by the {tinkerer}. We're currently in the process of changing the mechanics for {tinkerer} and this will result in it not affecting add-ons directly in the future."
+- for: hag
+  text: "{hag}'s killer stain is too pale."
+- for: hillbilly
+  text: "{hillbilly}'s First Anniversary weapon doesn't display in the inventory"

@@ -1,0 +1,93 @@
+- for: trapper
+  text: Fixed an issue that could cause Survivors to become stuck for the rest of the match when {trapper} placed a bear trap under them while they were already performing an interaction.
+- for: clown
+  text: Fixed an issue that caused {clown}'s Redhead's Pinky Finger add-on to apply the Exposed status effect on Survivors without a direct bottle hit.
+- for: clown
+  text: Fixed an issue that could cause permanent Exhaustion when affected by {clown}'s gas bottles with the Solvent Jug add-on equipped.
+- for: clown
+  text: Fixed an issue that caused {clown} to clip through most vaulting windows.
+- for: shape
+  text: Fixed an issue that caused {shape}'s camera to become slanted and allowed him to walk on assets when cancelling his mori.
+- for: hag
+  text: Fixed an issue that caused {hag}'s Rusty Shackles add-on to play the terror radius when the trap was triggered.
+- for: wraith
+  text: Fixed an issue that caused {wraith}'s "The Serpent" - Soot add-on not to fully uncloak him immediately after breaking a pallet or damaging a generator.
+- for: nurse
+  text: Fixed an issue that caused {nurse} to be missing her hand and weapon when blink attacking a Survivor before getting fatigued.
+
+- Fixed an issue that caused grass to move when a player was above or below the area. This issue was most commonly seen around the basement when it was in the Shack.
+- Fixed an issue that could cause the right door on lockers to appear warped.
+- Fixed an issue that made it impossible for Killers to interrupt a Survivor repairing a generator from a specific side in the Wretched Shop map.
+- Fixed an issue that made it impossible to open the hatch with a key when it spawned facing a car pile in the Gas Heaven map.
+- Fixed an issue that made it possible to get stuck in the basement stair collision under certain conditions, when the basement spawned in the office building in the Azarov's Resting Place map.
+- Fixed an issue that caused tree branches and leaves to clip through the walls on the top floor of the farm house in the Thompson House map.
+- Fixed an issue that could cause a desync between clients and host around the slaughterhouse in the Rancid Abattoir map.
+- Fixed an issue that caused some assets to have missing textures on the slaughterhouse building in the Rancid Abattoir map.
+- Fixed an issue that caused tree branches and leaves to clip through the walls on the top floor of certain houses in the Lampkin Lane map.
+- Fixed an issue that caused a generator to clip into part of a maze wall in The Pale Rose map.
+- Fixed an issue that could cause a desync between clients and host around the Ferry Boat in The Pale Rose map.
+- Fixed an issue that caused blood and dirt wall textures to disappear at certain camera angles in the Lery's Memorial Institute map.
+- Fixed an issue that allowed Survivor to cleanse the hill totem from on top of the rocks in the Mount Ormond Resort map.
+- Fixed an issue that caused the Entity not to appear on a specific hook in The Temple of Purgation map.
+- for: nurse
+  text: Fixed an issue that made it impossible for {nurse} to blink around the exterior of the temple tile in the Temple of Purgation map.
+- for: nurse
+  text: Fixed an issue that made it impossible for {nurse} to blink around the exit tiles in the Temple of Purgation map.
+- Misc LOD fixes.
+
+- for: mettleOfMan
+  text: Fixed an issue that caused {mettleOfMan} to give the Killer a point in the Malicious Emblem category when activated.
+- for: legion, darkDevotion
+  text: Fixed an issue that caused {legion}'s Killer Instinct not to be visible with {darkDevotion}.
+- for: territorialImperative
+  text: Fixed an issue that caused {territorialImperative} to trigger on hooked and hiding Survivors.
+- for: resilience
+  text: Fixed an issue that caused {resilience} not to affect window vaults.
+
+- Fixed an issue that could cause a disconnect or make it impossible to execute a mori when the Survivor was recovering.
+- for: pig, bill
+  text: Fixed an issue that caused only {bill}'s hair to show in the Jigsaw box aura when within 5 meters.
+- for: hag, claudette
+  text: Fixed an issue that caused {claudette} with the Side-parted Curls head customization not to trigger {hag}'s traps.
+- for: trapper
+  text: Adjusted the bear trap interaction zone that caused Survivors to snap into the disarm trap animation.
+- for: nightmare
+  text: Fixed an issue that caused Survivors vaulting over windows during the Dream State transition to clip through the window.
+- Fixed an issue that caused the Entity blocker to sometimes not block windows.
+- Fixed an issue that caused a window to block directly after the initial Entity blocker timer had ended.
+- Fixed an issue that caused the Survivor camera to become offset when interrupted entering a locker by the Killer.
+- Fixed an issue that caused Survivors to appear floating in lobbies and on the tally screen.
+- for: ash
+  text: Adjusted the flashlight items aim when held by {ash}'s Ashy Slashy hand customization item to be more in line with regular cosmetics.
+- Adjusted the smoke opacity LODs that caused the hatch and Hex totem VFX to be visible from far away.
+- for: trapper
+  text: Fixed an issue that caused the notification bubble for a Survivor stepping in a bear trap to be misplaced and wobble.
+- Fixed an issue that caused Survivors to lose their Offerings if the Killer disconnected right after the offering burn screen.
+- Fixed an issue that caused the Sealed Envelope Offering to not be personal.
+- Fixed an issue that caused The Hunt Ritual to generate with progress already applied.
+- Fixed an issue that caused Killer's to lose 4 pips when disconnecting through a cable pull and re-establishing a Network connection on the splash screen.
+- Added more logging to better help understand and track the issues where players are losing pips or not gaining progress on their rank.
+- for: borrowedTime
+  text: Fixed an issue that caused progress on the Deranged Pursuit achievement when downing a Survivor with the Deep Wound status effect from {borrowedTime}.
+- for: deadHard
+  text: Fixed an issue that caused {deadHard} prompt not to appear when bound to keys 1, 2 or R.
+- for: deadHard
+  text: Fixed an issue that made it impossible to trigger {deadHard} when bound to keys 3 and 4.
+- Updated the intro video.
+- Misc cosmetic clipping and improvements.
+
+- Fixed an issue that caused the Entity gargle noises to remain on the hooks when a Survivor was unhooked.
+- for: spiesFromTheShadows
+  text: Fixed an issue that caused the loud noise notification from {spiesFromTheShadows} to have a muffled sound effect in comparison to the other loud noises.
+- Fixed an issue that caused no interrupt audio stinger when being pulled out of a locker.
+- for: shape
+  text: Fixed an issue that caused {shape}'s stinger theme to play and overlap the menu music.
+- for: ash
+  text: Adjusted {ash}'s VO in the menus.
+- Fixed multiple audio issues related to the environments.
+- Minor localization and translation improvements.
+
+- Fixed an issue that caused the inventory pages to revert in a Kill Your Friends lobby to the last one used in a Public match when a Survivor joined or changes characters.
+- Fixed an issue that caused the Revoke Consent tooltip to be cut off in French.
+- Removed the progress bar when executing a mori Kill after it was fully charged.
+- Misc UI improvements.

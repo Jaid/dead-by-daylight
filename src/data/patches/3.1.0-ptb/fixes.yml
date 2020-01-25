@@ -1,0 +1,67 @@
+- for: shape
+  text: Fixed an issue that caused Survivors models to reappear when {shape} used his stalking ability while the Survivor was being sacrificed.
+- for: shape
+  text: Fixed an issue that caused {shape}'s stalking range to be wrongfully decreased. Stalking range has been adjusted back to within 40 meters.
+- for: ghostFace
+  text: Fixed an issue that caused {ghostFace} not to have an off-screen notification when spotted in the 180 degrees in front of him.
+- for: plague
+  text: Fixed an issue that sometimes caused {plague}'s vomit not to appear on windows.
+- for: plague
+  text: Fixed an issue that caused items to remain infected when Survivors cleansed their sickness from a fountain.
+- for: plague
+  text: Fixed an issue that caused Survivors to get the Protection score event when being near an injured Survivor when reaching the Broken state by {plague}'s vomit.
+- for: hag
+  text: Fixed an issue that caused the flashlight item not to reveal {hag}'s Phantasm Traps.
+- for: trapper
+  text: Fixed an issue that caused trapped Survivors not to get downed when hit by {trapper} while they are struggling in the trap.
+
+- Fixed an issue that caused an invisible collision that blocked player movement on the boxes on top of the bar in the cabin of the Mount Ormond Resort map.
+- Fixed an issue that caused a ski stick to be floating on top of the bar counter in the chalet of the Mount Ormond Resort map.
+- Fixed an issue that caused the snow decal on the ground in the chalet to end abruptly in the Mount Ormond Resort map.
+- Fixed an issue that caused flickering ground textures in the Red Forest maps.
+- Fixed an issue that made it impossible to escape the basements if the Killer was in the doorway when the basement spawned in the main buildings in the Ironworks of Misery, Thompson House and Blood Lodge maps.
+- Fixed an issue that caused part of the Thompson House roof to be missing.
+- Fixed an issue that caused a hook in front of the warehouse to float in the Coal Tower map.
+- Fixed an issue that caused players to clip inside certain big tree trunks in the Backwater Swamp maps.
+- Fixed an issue that caused an impassable gap between a hooked Survivor and a bed frame on a specific tile in the Lery's Memorial Institute map.
+- for: hillbilly
+  text: Fixed an issue that made it impossible for {hillbilly} to chainsaw sprint into the lower floor of the temple in the Temple of Purgation map.
+- Fixed an issue that caused hiding Survivors to clip inside of lockers in the control room of The Game map.
+- Fixed an issue that caused players to become stuck on a hill between the hill and 2 bamboo trees in the Family Residence map.
+- Fixed an issue that caused a hole in one of the hills in the Family Residence map.
+- Fixed an issue that caused some flickering textures on some walls in the Family Residence map.
+- Fixed an issue that could cause Killers to get partially stuck on top of two rock assets in the Lampkin Lane map.
+- Misc LOD fixes and improvements.
+
+- for: mettleOfMan, nightmare
+  text: Fixed an issue that caused {mettleOfMan} to remove the Dream State when triggered.
+- for: vigil
+  text: Fixed an issue that caused {vigil} to have no effect on Exhaustion caused by Sprint Burst.
+
+- Tentatively fixed an issue that could prevent Survivors from successfully escaping through the exit gates.
+- Updated the attack system to flag certain attacks as basic attacks. This will help with consistency of 'attack' conditions in perks, add-ons and powers.
+- Fixed an issue that caused disconnected clients not to be promptly removed from the online lobby.
+- Fixed an issue that caused the End Game Collapse timer to be permanently slowed if a Survivor crawled out of the exit.
+- Fixed an issue that could cause the End Game Collapse timer not to be slowed when the last Survivor in the match was downed.
+- Fixed an issue that caused Survivors to instantly disappear when escaping through the exit.
+- Fixed an issue that caused the hatch audio and VFX to continue playing after the hatch was closed by the Killer.
+- Fixed an issue that caused spectators to see an incapacitated Survivors bloody overlay from another Survivor's point of view.
+- Fixed an issue that allowed certain Survivors to interact with totem debris.
+- Fixed an issue that caused the flashlight beam to no longer be progressive.
+- Fixed an issue that caused Survivors models to be placed outside of the locker if movement input was used while entering the locker with high lag.
+- Fixed an issue that sometimes caused Survivors models to change from dying to injured when escaping the Killers grasp by any means.
+- Fixed an issue that caused a hang when leaving the Killer Tutorial after hooking {meg}.
+- Fixed an issue that caused {dwight}'s character model to disappear and reappear in the beginning of the Survivor Tutorial.
+- Fixed an issue that caused the dodged lobby timeout not to advance while in the Store or Credits.
+- Misc cosmetic clipping and improvements.
+
+- for: legion
+  text: Fixed an issue that caused Julie and Suzie to sound like Frank in-game.
+- for: huntress
+  text: Fixed an issue that caused {huntress} lullaby not to play from her perspective.
+- Fixed an issue that caused the SFX when a Survivor joined a lobby or switched characters to be missing in lobbies.
+- Major localization and translation improvements.
+
+- Fixed an issue that allowed users to change multiple options at the same time in the Kill Your Friends Match Management screen.
+- Fixed an issue that caused the DLC Unlock prompt to appear on already purchased characters in the Store.
+- Misc UI improvements.

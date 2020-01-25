@@ -1,0 +1,1 @@
+You become obsessed with one survivor. Your obsession gains a 33% action speed bonus to unhooking and healing other survivors. Each time you hook a Survivor other than the Obsession, if the Obsession is alive, gain a token. If the Obsession is alive, all Survivors who are not the Obsession get a {tiers:2%/2.5%/3%} penalty to Repair, Healing and Sabotage speed for each token.

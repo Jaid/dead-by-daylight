@@ -1,0 +1,83 @@
+- Tentatively fixed an issue that could cause the Killer to teleport next to the pallet while stunned with it
+- Fixed an issue that caused the red arrow indicator to appear when Killers broke a pallet
+- Fixed an issue that allowed Survivors to be able to push Killers if the Killer stops moving after hitting a Survivor
+- Fixed an issue that allowed Killers to enter a hooked Survivors' collision, preventing a hook rescue when they attempted to escape
+- for: nightmare
+  text: Fixed an issue that caused awake Survivor to retain collision with {nightmare} after being hooked
+- for: hag
+  text: Fixed an issue that caused {hag}'s terror radius to be removed for the remainder of the match when equipping the Grandma's Heart add-on
+- for: hag
+  text: Fixed an issue that allowed {hag} to see through maze walls while carrying or dropping a Survivor from her shoulder
+- for: hillbilly
+  text: Fixed an issue that caused no effect when Survivors vaulted a pallet at the same time as {hillbilly} used his chainsaw to break it
+- for: pig
+  text: Fixed an issue that caused {pig}'s red stain to stay visible after the transition to the Ambush stance
+- for: pig
+  text: Fixed an issue that caused {pig} to leave the Ambush stance when searching a locker
+- for: shape
+  text: Fixed an issue that caused the camera to clip through {shape}'s body when performing a Memento Mori kill
+- for: spirit
+  text: Fixed an issue that caused the Survivors' blood to appear bright red while {spirit} charged her power
+- for: spirit
+  text: Fixed an issue that caused the Survivors' blood to remain bright red when {spirit} cancelled her power during the charge
+- for: spirit
+  text: Fixed an issue that caused items to remain visible if Survivors picked them up during {spirit}'s Phase Walk
+- for: spirit
+  text: Fixed an issue that caused the chase music to continue for {spirit} when using Yamaoka's Haunting
+- for: spirit
+  text: Fixed an issue that caused {spirit}'s katana to hang from her hand after being stunned with a pallet while attacking
+
+- Fixed an issue that caused an impassable gap between a log and the Shrimp Boat in The Pale Rose map
+- Fixed an issue that caused audio corruption in The Pale Rose
+- Fixed an issue that could cause the Killer to get stuck on an invisible collision in the big cabin in the Grim Pantry map
+- for: nurse
+  text: Fixed an issue that made it impossible for {nurse} to blink in or around the bathroom tile in The Game map
+- Fixed an issue that caused a room on the lower level of The Game map to spawn with no open doors
+- for: nurse
+  text: Fixed an issue that made it possible for {nurse} to blink beyond the map barriers in the Family Residence map
+- Fixed an issue that allowed survivors to block Killer movement when crouching in front of the hay bale on the combine harvester in Coldwind Farm maps
+- Fixed an issue that could make it impossible to pick up a Survivor in certain areas of houses in the Lampkin Lane and Badham Preschool maps
+
+- for: deliverance
+  text: Fixed an issue where the guaranteed hook escape attempt sometimes wasn't granted when using the Deliverance perk
+- "Fixed an issue that caused Survivors aura not to show when looking directly at them while they're hiding in a locker with Survivor aura perks (ie: {bond}, {empathy}, etc)"
+- for: diversion
+  text: Fixed an issue that caused the notification bubble for {diversion} to appear slightly higher than other loud noise notifications
+- for: diversion
+  text: Fixed an issue that allowed a Survivor to skip the self-unhook animation by throwing a pebble with {diversion}
+- for: autodidact
+  text: Fixed an issue that caused the skill checks for {autodidact} to be to non-healing skill checks
+- for: rancor
+  text: Fixed an issue that caused the Kill {rancor} to consume the Ivory Memento Mori Kill
+
+- Fixed an issue that could cause the doors on the locker to open/close twice when rapidly entering/exiting
+- Fixed an issue that caused the Survivors' to briefly clip through the locker when being grabbed out of it
+- Fixed an issue that caused Survivors to clip through the locker doors if the Killer hit them at the same time as they quickly hid in it
+- Fixed an issue that caused the prompt order to change when the Killer has more than one prompt at a time
+- Fixed an issue that caused the Killers animation to break when hooking a Survivor gets interrupted
+- Fixed an issue that caused the blinding VFX to display for a survivor using the flashlight while a different Survivor blinds the Killer using a flashlight
+- for: selfCare
+  text: Fixed an issue that caused the medkit self healing to stop when medkit ran out of charges while {selfCare} is equipped
+- for: doctor
+  text: Fixed an issue that caused {doctor}'s illusions to block the flashlight beam for a short time after they have disappeared
+- Fixed an issue that caused the textures on items dropped by sacrificed Survivors to change to the sacrificed texture
+- for: spirit
+  text: Fixed an issue that caused {spirit} to appear invisible for the Kill Your Friends spectator when switching to her while she uses Yamaoka's Haunting
+- Various cosmetic clipping/camera adjustments and improvements
+
+- Fixed an issue that caused auto completed generator piston audio to be louder than manually completed generators
+- for: spirit
+  text: Fixed an issue that caused {spirit}'s glass cracking noises to play while she was Phase Walking
+- Minor localization and translation improvements
+
+- Fixed an issue that caused the Killers weapons to be flagged as a "power" in the Store
+- Fixed an issue that caused the "Auric Cell Packs" texts to appear cut-off on the short-cut icon in the Store in certain languages
+- Fixed an issue that caused the host's cursor to reset to the default position when a Survivor joins the lobby
+- Fixed an issue that made it impossible to use the controller buttons to change pages in the map selection in Kill Your Friends
+- Fixed an issue that caused the "Waiting for {X} Survivors" to disappear for the Killer when selecting anything in the Loadout
+- Fixed an issue that caused the category icon to be missing from {spirit}'s daily ritual
+- Minor UI improvements
+
+- Fixed an issue that caused the wiggle prompts to appear as the default keys when modifying the keyboard controls
+- Fixed an issue that caused some players playing in Chinese to be unable to purchase Auric Cell Packs
+- Fixed an issue that made it impossible to acquire any of the escaping achievements if the user escaped through the hatch with less than 5 generators repaired

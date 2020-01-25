@@ -1,0 +1,3 @@
+{flavor:Your presence alone instils great fear.}
+
+Survivors within your Terror Radius have a {tiers:30%/40%/50%} penalty to healing progress speed.

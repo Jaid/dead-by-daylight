@@ -1,0 +1,98 @@
+- for: wraith
+  text: Fixed an issue that allowed Survivor to be able to burn {wraith} out of invisibility through walls
+- for: clown
+  text: Fixed an issue that allowed {clown} to throw bottles through walls when the camera was against the wall
+- Fixed an issue that caused Survivors to be briefly offset during multiple Killers pick up animation from the Killer POV
+- for: nightmare
+  text: Fixed an issue that caused Survivors to be offset when being hooked by the Nightmare
+- for: shape
+  text: Fixed an issue that caused Survivors to be offset when being picked up by the Shape
+- for: nightmare
+  text: Fixed an issue that caused the Obsession not to have the dream state VFX on their icon in the HUD when {nightmare} used the Black Box add-on
+- for: pig
+  text: Fixed an issue that caused {pig} not to be able to hit Survivors with her Ambush attack if they were crouched on stairs
+- for: pig
+  text: Fixed an issue that caused {pig}'s Bag or Gears and Crate of Gears add-ons not to debuff the Survivor accordingly
+- for: trapper
+  text: Fixed an issue that caused {trapper} to be unable to set bear traps for the rest of the match after picking up a bear trap while it's getting set with the Iridescent Stone add-on
+- for: hillbilly
+  text: Fixed an issue that could cause the {hillbilly}'s chainsaw to miss the hit detection
+- Fixed an issue that could cause the Survivor to become stuck in place when the Killer fell on top of them
+- for: nightmare
+  text: Fixed an issue that could make it to be impossible to blind {nightmare} with flashlights or firecrackers
+- Fixed an issue that allowed Killers to interrupt Survivors' window vault through a specific asset in the slaughterhouse of the Rancid Abbatoir map
+- for: nurse
+  text: Fixed an issue that allowed {nurse} to blink out of world through a corner wall in the bathroom of The Game map
+- Fixed an issue that caused an LOD issue on the exit gates in all maps
+- Fixed an issue that caused an LOD issue on the hooks in the Autohaven Wrecker's maps
+- for: pig
+  text: Fixed an issue that caused an inaccessible Jigsaw box or chest in the Coldwind Farm maps
+- Fixed an issue that caused an inaccessible hook in the Mother's Dwelling map
+- Fixed an issue that caused an invisible collision on one of the planks in the Silo building in the Torment Creek map
+- Fixed an issue that caused an invisible collision on the stairs inside the foundry building in the Ironworks of Misery map
+- Fixed an issue that caused characters to clip through the asset when vaulting over the window on the combine harvester asset in Coldwind Farm maps
+- Fixed an issue that caused the Survivor to be able to get on top of a locker in the main building in the Mother's Dwelling map
+- for: trapper
+  text: Fixed an issue that caused {trapper}'s bear traps to sink into the ground on certain areas of the ferry boat in the Pale Rose map
+- Fixed an issue that could cause a bush or trash pile to spawn too close to a generator, preventing repairs in the Lampkin Lane map
+- Fixed an issue that could cause a totem to spawn inside a locker on the 2nd floor of the foundry in the Ironworks of Misery map
+- Fixed an issue that could cause the ground textures to flicker when seen from another tile in the Mother's Dwelling map
+- Fixed an issue that could cause the hatch to spawn inside of a tree in the Mother's Dwelling map
+- Fixed an issue that could sometimes make it impossible to repair a generator on one side in the Autohaven Wrecker's maps
+- Fixed an issue that prevented Survivors from sabotaging a specific hook in The Game map
+- for: nurse
+  text: Fixed an issue that prevented {nurse} from blinking in a certain part of the barn in the Fractured Cowshed map
+- for: nurse
+  text: Fixed an issue that prevented {nurse} from blinking on certain tiles in the Treatment Theatre map
+- for: deadHard
+  text: Fixed an issue that allowed Survivors to propel themselves to unreachable areas when combining the speed boost when hit with {deadHard} over a hole
+- for: sloppyButcher
+  text: Fixed an issue that caused the Mangled effects from {sloppyButcher} to be removed after healing one health state when healed from the dying state
+- for: overcharge
+  text: Fixed an issue that caused the {overcharge} skill check to explode on the player if the player let go of the repair action and failed the skill check
+- for: decisiveStrike
+  text: Fixed an issue that could prevent Survivors from escaping the Killer when succeeding the {decisiveStrike} skill check while the Killer lung attack towards the ground
+- for: adrenaline
+  text: Fixed an issue that made it impossible to use Unbreakable if the player was recovering when {adrenaline} triggered
+- for: sprintBurst
+  text: Fixed an issue that made it possible to use {sprintBurst} while hiding in a locker
+- for: monitorAndAbuse
+  text: Fixed an issue that prevented {monitorAndAbuse} from playing certain Killer proximity layers
+- for: borrowedTime, noMither
+  text: Fixed an issue that prevented players from healing another Survivor in the {borrowedTime} state if they had {noMither} equipped
+- for: decisiveStrike
+  text: Fixed an issue that that caused {decisiveStrike} to get used when succeeding the skill check while dropped or hooked. Now the skill check should re-appear if succeeded
+- Fixed an issue that caused the Emergency Medkit item not to give 25% healing efficiency
+- Fixed an issue that caused the Loadout menu to be inaccessible when leaving a Kill Your Friends lobby as a spectator
+- Fixed an issue that caused the Ranger Medkit not to modify the skill check difficulty and bonus zones
+- Fixed an issue that could allow Survivors to fully heal themselves at the same moment as getting hit, or hit with a double damage weapon
+- for: trapper
+  text: Fixed an issue that could cause a Survivor to farm Sabotage points with a bear trap
+- for: hag
+  text: Fixed an issue that could cause {hag} to become stuck in a pallet if teleporting to a triggered trap while a pallet was being dropped
+- Tentatively fixed an issue that could cause clients to be unable to move once they have loaded into a match. This is a fix in addition to the ones pushed live with patch 2.0.1a and 2.1.0
+- Adjusted the brightness for hex totem outlines
+- for: feng
+  text: Fixed an issue that caused {feng}'s pony tails from the Sci-Fi Fan collection to go crazy
+- for: nightmare
+  text: Fixed an issue that caused all female Survivors to have their eyes closed during the {nightmare}'s mori
+- Fixed an issue that caused the Tarnished Coin not to be present in Kill Your Friends
+- Fixed an issue that caused the improper text and missing icon when prestiging Nea to Prestige level II
+- for: kate
+  text: Fixed an issue that could cause {kate}'s hair and shirt to stretch when performing certain actions
+- for: jake
+  text: Fixed an issue where 4 of {jake}'s Grey Performance Top variations were missing gloves
+- for: wraith
+  text: Fixed an issue where {wraith}'s blade wipe animation was misaligned with the weapons from the Grim Tidings collection
+- for: doctor, cannibal
+  text: Fixed an issue where the Doctor's Overcharge customization items and the Cannibal's face collection was missing from the players inventory when purchasing the character in-store instead of through DLC
+- Updated the intro video
+- Various cosmetic clipping/camera adjustments and improvements
+- Fixed an issue that caused the game to hang when the player lost connection during the transition to a lobby
+- Fixed an issue that caused no confirmation prompt when pressing ALT + F4 on the Credits
+- Fixed an issue that caused an infinite loading when attempting to joina Kill Your Friends lobby without being friends with the host. Players should now get a user friendly message.
+- for: hag
+  text: Adjusted the audio of the hag's phantasm traps being triggered from the Killer perspective
+- Fixed an issue that caused the wrong material audio when running or walking beneath a hole in the main building of the Grim Pantry map
+- Minor localization improvements
+- Fixed an issue that caused the category score event meter to appear full at 5000 Bloodpoints instead of 8000

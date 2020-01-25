@@ -1,0 +1,3 @@
+{flavor:Long nights out taught you to do a lot with what you've got.}
+
+Reduce the consumption rate of item charge by {tiers:15%/20%/25%} for you and allies within a 8 meter range. Once out of range, this effect persists for 15 seconds.

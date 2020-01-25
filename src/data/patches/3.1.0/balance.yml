@@ -1,0 +1,23 @@
+- for: nightmare
+  text: Added a generator teleport VFX indicator attached to the generators auras, and removed the white aura on generators {nightmare} could teleport to.
+- for: nightmare
+  text: Adjusted {nightmare}'s Jump Rope add-on action speed debuff from 8% to 9%.
+- for: nightmare
+  text: Adjusted the Dream World lighting to be a bit more dark.
+- for: cannibal
+  text: Adjusted the cooldown for successful {cannibal} chainsaw attacks to be the same as that for a missed chainsaw attack (adjusted movement speed and reduced duration from 3 seconds to 2 seconds).
+- for: madGrit
+  text: Changed {madGrit} such that no speed is gained or lost while slashing and carrying a Survivor.
+- Reverted the Survived score event value change back to 5000.
+- for: pig
+  text: "{pig}'s Ambush Attack is no longer considered a basic attack."
+- for: infectiousFright
+  text: "{infectiousFright} is no longer tied to basic attacks and will trigger whenever a Survivor is put into the dying state."
+- for: darkDevotion
+  text: "{darkDevotion} duration has been increased and cooldown has been removed."
+- for: nightmare
+  text: A buffer has been added to reduce the friction and make it easier to place Dream Snares as {nightmare}.
+- for: nightmare
+  text: Slightly reduced the charge timer for placing Dream Snares as {nightmare}.
+- for: pig
+  text: The movement speed curves for crouching and uncrouching have been adjusted to transition between normal speed and crouched speed more smoothly. The overall average speed while performing these interactions has been slightly increased.

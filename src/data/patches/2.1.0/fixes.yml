@@ -1,0 +1,73 @@
+- Fixed an issue that caused male Survivors not to make any noise when cleansing totems
+- for: trapper
+  text: Fixed an issue that caused the trap disarm audio to be cut off or corrupted if the {trapper} was not facing the trap
+- for: clown
+  text: Fixed multiple community reported spelling and grammatical errors in Store customization items and {clown}'s add-on texts in English
+- Minor localization and translation improvements
+- for: nurse
+  text: Fixed an issue that caused jittery animation when the {nurse} attacked while carrying a Survivor
+- for: clown
+  text: Fixed an issue that caused the {clown}'s gas bomb VFX to remain visible on the tally screen
+- for: hag
+  text: Fixed an issue that caused the {hag}'s killer stain to appear too bright
+- for: hag
+  text: Fixed an issue that caused the {hag}'s phantasm trap to appear misaligned when holding a directional key during the trap placement
+- for: nurse
+  text: Fixed an issue that caused the {nurse} to be able to cancel a charged blink by attacking
+- for: nurse
+  text: Fixed an issue that caused the {nurse} to be unable to use her blink power around the Asylum building in the Crotus Prenn Asylum map
+- for: trapper
+  text: Fixed an issue that caused the Survivor not to immediately go into crawl state when The {trapper} hit them during the step in bear trap animation
+- for: trapper
+  text: Fixed an issue that caused the bear traps & trap indicator to become offset during the {trapper}'s trap placement animation
+- for: cannibal
+  text: Fixed an issue that could sometimes cause the {cannibal} to be unable to destroy a pallet when using the chainsaw
+- for: cannibal
+  text: Fixed an issue where the locked (unequippable) {cannibal}'s Face Mask Collection customization items were not appearing in the players inventory
+- Fixed an LOD issue on one of the houses in Haddonfield
+- Fixed an impassable gap for Killers between a rock and a fence tile in the Autohaven Wrecker's themed maps
+- Fixed an impassable gap for Killers between a rock and a tree in the Mother's Dwelling map
+- Fixed an issue could cause less than 5 totems to spawn in the Pale Rose map
+- Fixed an issue that allowed players to climb on top of a chest next to a broken boat in the Backwater Swamp themed maps
+- for: trapper
+  text: Fixed an issue that caused bear traps to sink into the stairs of the main building in the Blood Lodge map
+- Fixed an issue that caused players to become permanently stuck when interrupting a vault through a specific window in the Smokehouse building in the Mother's Dwelling map
+- Fixed an issue that caused players to become permanently stuck when interrupting a vault through a specific window in the chapel building in the Father Campbell's Chapel map
+- Fixed an issue that could cause a MacMillan killer hook to spawn in the Badham Preschool map if the basement was not located inside the preschool
+- Fixed an issue that could cause a player to become stuck in a closed room inside The Game map when rescued from the Killers grasp in a specific area
+- Fixed an issue that could cause multiple totems to spawn in the main building of the Groaning Storehouse map
+- Fixed an issue that could cause specific assets to disappear from a distance in the Crotus Prenn Asylum maps
+- Fixed an issue that could cause specific assets to disappear from a distance in the MacMillan Estate themed maps
+- for: pig, nightmare
+  text: Fixed an issue where the {pig} and the {nightmare} didn't fall after vaulting through the window on the car crusher asset in Autohaven Wrecker's themed maps
+- for: bloodWarden
+  text: Fixed an issue that caused Survivor aura not to be visible within the exit gates when using {bloodWarden}
+- Fixed an issue that caused generator progression when succeeding an Overcharge skill check
+- for: stakeOut
+  text: Fixed an issue that caused {stakeOut} to accumulate tokens during the interrupt animation
+- for: windowsOfOpportunity
+  text: Fixed an issue that caused {windowsOfOpportunity} to show the aura of a boarded-up window vault in Léry's Memorial Institute
+- for: slipperyMeat
+  text: Fixed an issue where the extra hook escape attempts sometimes weren't given when using {slipperyMeat}
+- Added a tooltip on the "Filter" icon in the Store
+- Fixed an issue that prevented players from viewing how much Player XP was calculated during the match when switching pages in the tally screen
+- Fixed an issue that allowed clients to spectate a broken screen if the host of the match disconnected
+- for: nightmare
+  text: Fixed an issue that caused Survivor hair and glasses to remain visible after disconnecting in the Dream State
+- Fixed an issue that caused Survivors to briefly fly outside of the locker when the Killer grabs them out
+- Fixed an issue that caused a broken screen when spectating if the host of the match disconnected
+- Fixed an issue that caused the Bloodweb to skip levels if the last node was a perk
+- Fixed an issue that caused the Killer model in a Kill Your Friends lobby to be invisible when switching roles rapidly
+- Fixed an issue that caused the Killers stain to be active in the tally screen
+- for: hag, nurse
+  text: Fixed an issue that caused the wrong Prestige item unlock order for {hag} and {nurse}
+- Fixed an issue that could cause Survivor's face to appear solid white when rapidly swapping outfits in the Store
+- Fixed an issue that could cause the exit gate not to open if the Killer hit the Survivor at the very last frame of the interaction
+- Fixed an issue that made it possible to receive a reward at a lower rarity than ultra rare when purchasing an ultra rare mystery box in the Bloodweb
+- Tentatively fixed an issue that could cause clients to be unable to move once they have loaded into a match. This is a fix in addition to the one pushed live with 2.0.1a.
+- Tentatively fixed an issue that could cause players not to receive the first match of the day bonus XP
+- Various cosmetic adjustments and improvements
+- Added a message indicating that the Steam Overlay needs to be enabled in order to purchase Auric Cell Packs
+- Fixed an issue that could cause a crash when the user quit the game by spamming the "B" and "A" buttons on a Xbox360/Xbox One controller
+- Fixed multiple issues that could cause the menus to become unresponsive when opening and closing any of the lobby buttons
+- Integrated Simplified Chinese and Korean community translations

@@ -1,0 +1,59 @@
+- Adjusted the level requirements for unlocking perk slots. The 2nd, 3rd and 4th perk slots now unlock at levels 5/10/15 respectively (down from 15/20/25)
+- for: trapper
+  text: Adjusted the red aura intensity for killers on totems, bear traps, hooks and generators.
+- All characters now start with their 3 personal perks unlocked by default (at level 1)
+- Changed hook auras to always be visible from the Killer's standpoint while carrying a survivor. Prior to this change, hook auras would only be displayed if the hook was hidden behind another object.
+- for: wraith
+  text: Decreased the {wraith} flashlight uncloak stun time from 4 seconds to 3 seconds
+- Decreased the range of activation for the Killer pick up interaction
+- for: wraith
+  text: Fixed an issue that caused {wraith}'s red stain and terror radius to remain for several seconds after successfully cloaking. This change gives the {wraith} the bit of a boost that he needs, and also applies when damaging generators and destroying pallets.
+- Removed the acceleration curve when the Survivor was hit by the Killer. Removing the acceleration curve should allow the Survivors to use their default acceleration and have more control over their character during the speed boost.
+- for: doctor, hag
+  text: Removed the possibility of spawning {doctor} or {hag} splinters in the Bloodweb because these characters can now be purchased for Iridescent Shards.
+- Added a few totem spawn points in the buildings of Macmillan Estate
+- Adjusted Torment Creek and Rancid Abattoir map layouts to create more distance between the maze tiles
+- Changed the number of hooks for each map to be based on its number of tiles (Total Tile Count / 3)
+- Improved totem placement in various maps
+- Pallet loops in the maps of Macmillan Estate, Autohaven Wreckers and Coldwind Farm themes have been tweaked in order to increase their fun factor
+- Relaxed the default Survivor-on-Survivor spawning rules in order to minimize the occurrence of killers spawning close to survivors.
+- Updated pallets within Badham, Hospital and "map" The Game to use procedural distribution system. This should result in a more fair pallet generation.
+- text: Changed emblems
+  points:
+    - text: Benevolent
+      points: Increased the starting amount of Benevolent points (from 20 points to 35 points)
+    - text: Lightbringer
+      points:
+        - Reduced the requirement to attain Bronze quality (from 50 points to 30 points)
+        - Reduced the requirement to attain Gold quality (from 230 points to 190 points)
+        - Reduced the requirement to attain Iridescent quality (from 310 points to 270 points)
+        - Reduced the requirement to attain Silver quality (from 130 points to 100 points)
+    - text: Evader
+      points:
+        - Increased the requirement to attain Bronze quality (from 200 points to 230 points)
+        - Reduced the requirement to attain Gold quality (from 700 points to 560 points)
+        - Reduced the requirement to attain Iridescent quality (from 1100 points to 880 points)
+        - Reduced the requirement to attain Silver quality (from 400 points to 380 points)
+    - text: Chaser
+      points:
+        - Increased the requirement to attain Bronze quality (from 550 points to 650 points)
+        - Increased the requirement to attain Silver quality (from 1100 points to 1230 points)
+        - Reduced the requirement to attain Gold quality (from 2200 points to 1800 points)
+        - Reduced the requirement to attain Iridescent quality (from 3300 points to 2550 points)
+- for: deadHard
+  text: Added an new animation to indicate that the perk is active
+- for: deadHard
+  text: Removed the speed boost from {deadHard} while in the air. This change aims to fix a variety of game hostage issues in multiple maps
+- for: balancedLanding
+  text: Added sprint of 150% for 3 seconds for all Tiers
+- for: balancedLanding
+  text: Sprint causes Exhaustion for {tiers:60/50/40} seconds
+- for: balancedLanding
+  text: Stagger effects from long falls are reduced by 75% for all Tiers, without cooldown
+- for: stakeOut
+  text: "{stakeOut}'s progression is not lost anymore when a token is consumed"
+- text: Pallet Interaction & Stun Zone changes
+  points:
+    - Adjusted the dimensions of the pallet stun hitbox. The hitbox was larger on one side than the other and encompassed both the standing pallet and the fallen pallet. It has been reduced to only encompass the fallen pallet.
+    - Removed the ability to drop a pallet and rapidly cross the zone, what is often referred to as the pallet vacuum. With this change, a survivor will always stay on the same side of the pallet when triggering the interaction.
+    - The way survivors drop pallets has changed, the interaction is now input based rather than velocity/ direction based. If you want to drop a pallet from a standstill, you simply need to be on the side of the pallet that you would like to stay after dropping the pallet, and press the drop pallet interaction key. If you would like to drop the pallet on the opposite side of you, as there is no longer a vacuum to take you from one side to the other, you must run through the pallet and press the drop pallet interaction key when you are on the other side of the pallet. *We are looking into fixing an issue where you cannot drop the pallet if you are holding the rush key (SHIFT key on PC) while dropping the pallet.

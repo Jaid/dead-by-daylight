@@ -1,0 +1,5 @@
+{flavor:Unlocks potential in one's aura reading ability.}
+
+While you're on the hook, All Survivors' Auras are revealed to all other Survivors. If the Killer is within a {tiers:8/12/16} meter range, the killer's aura is revealed to all other Survivors.
+
+While a Survivor other than you is on the hook, all other Survivors' auras are revealed to you. If the killer is within a {tiers:8/12/16} meter range of the hooked Survivor, the killer's aura is revealed to you.

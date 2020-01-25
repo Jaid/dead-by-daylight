@@ -1,0 +1,28 @@
+- Sometimes players are unable to move when loading into the trial.
+- Chases are not triggered or maintained while Killers are under the Undetectable status effect.
+- Terror Radius can affect players outside of the maximum range. Please report cases of this issue, providing - information regarding players Loadouts, including the Killer.
+- for: tinkerer
+  text: When {tinkerer} activates Survivors hear chase music as if the Killer were right next to them.
+- for: trapper
+  text: "{trapper} is sometimes unable to pick up traps."
+- Desync between clients and host regarding the hatch state.
+- for: demogorgon
+  text: "{demogorgon}'s add-ons appear in certain Killers Bloodwebs."
+- All lights in The Underground Complex map are flickering.
+- Sometimes finishing a Custom Game will kick the host out of the lobby.
+- Survivors may get stuck on an infinite loading screen after leaving the tally screen in a Custom Game.
+- Placeholder text for the Survivor disconnect score event.
+- The stairs in the Thompson House building are not aligned.
+- Dwight's Campus Sunnies head customization is missing shades.
+- Survivors do not scream when pulled out of a locker.
+- text: Archives
+  points:
+    - Level 2 Quest Consume Med-Kit cannot be completed.
+    - Dark Triumph challenge does not gain progress when a Survivor dies from a RBT during the End Game Collapse.
+    - The Hold The Door Quest on level 4 has a placeholder description.
+    - Framerate drops when switching Levels in the Tome.
+    - Placeholder name appears first time entering the Archives.
+    - Placeholder text for the Rift Fragments tooltip.
+    - Missing icon in The Game Manual for the Archives
+    - Some Charms don't dissolve properly when zooming in/out.
+    - New Levels in The Archives will be inaccessible if their release occurred during a player's session and the player has already reached the end of the most recent Level. Please relaunch the client if this occurs.

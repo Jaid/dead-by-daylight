@@ -1,0 +1,4 @@
+{flavor:Unlocks potential in one's Aura-reading ability.}
+
+Any regressing generator will be highlighted by a white aura. If the regression is interrupted on a generator, it will be highlighted by a yellow aura for {tiers:8/12/16} seconds.
+Noises created by generator Repairs are audible at an additional 8 meters.

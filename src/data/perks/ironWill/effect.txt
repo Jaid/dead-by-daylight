@@ -1,0 +1,3 @@
+{flavor:You're able to concentrate and enter a meditative-like state to numb some pain.}
+
+Grunts of pain caused by injuries are reduced by {tiers:50%/75%/100%}.

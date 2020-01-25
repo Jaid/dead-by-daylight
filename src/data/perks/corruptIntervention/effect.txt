@@ -1,0 +1,5 @@
+{flavor:Your prayers invoke a dark power that meddles with the Survivors' chances of survival.}
+
+3 Generators located furthest from you are blocked by The Entity for {tiers:80/100/120} seconds at the start of the match.
+Survivors cannot repair the generators for the duration.
+Affected generators are highlighted by a white aura.

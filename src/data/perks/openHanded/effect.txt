@@ -1,0 +1,3 @@
+{flavor:Strengthens the potential of you and your team's Aura-reading abilities.}
+
+Increases Aura reading ranges by {tiers:4/6/8} meters.

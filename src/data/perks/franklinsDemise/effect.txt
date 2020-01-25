@@ -1,0 +1,3 @@
+{flavor:Your vicious attacks make the Survivors drop their item on impact.}
+
+The lost Item is damaged in the fall, losing {tiers:nothing/5%/10%} of its base amount of charges.

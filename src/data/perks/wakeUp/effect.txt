@@ -1,0 +1,5 @@
+{flavor:Unlocks potential in one's aura reading ability.}
+
+Once all generators are powered, Exit Gates are revealed to you within 128 meter range.
+While opening the Exit Gates, reveal your aura to other Survivors up to 128 meters.
+While {this} is active, you open the Exit Gates {tiers:5%/10%/15%} faster.

@@ -1,0 +1,3 @@
+{flavor:The trauma caused by your brutal attacks makes crying for help painfully difficult.}
+
+Dying Survivors' auras are not revealed to other Survivors when they are standing outside of a {tiers:32/24/16} meter range.

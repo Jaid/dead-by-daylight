@@ -1,0 +1,5 @@
+{flavor:You're able to organize a team to cooperate more efficiently.}
+
+Increases other Survivors' healing, sabotage, unhooking, cleansing, opening exit gates, and chest search speeds by {tiers:15%/20%/25%} when they are within a 8 meter range of you.
+Survivors can only be affected by one {this} effect at a time.
+This effect persists on other Survivors for 15 seconds after leaving the {this}'s effective perk range.

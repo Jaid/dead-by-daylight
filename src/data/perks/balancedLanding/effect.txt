@@ -1,0 +1,6 @@
+{flavor:Your agility is incomparable.}
+
+After falling from a height, cat-like reflexes reduce your stagger duration from falling by 75% and reduce the volume of grunts from falling by 100%. You start sprinting at 150% your normal running speed for a maximum of 3 seconds.
+
+Causes the Exhausted Status Effect for {tiers:60/50/40} seconds.
+{this} cannot be used while Exhausted. You do not recover from the Exhausted Status Effect while running.

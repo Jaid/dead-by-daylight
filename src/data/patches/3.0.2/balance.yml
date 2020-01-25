@@ -1,0 +1,4 @@
+- for: nightmare, huntress
+  text: Lullabies are no longer directional.
+- for: ghostFace
+  text: Stunning {ghostFace} with any stun while he is in Night Shroud will disable his power.

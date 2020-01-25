@@ -1,0 +1,3 @@
+- Fixed an issue that caused clients to receive Lunar event progress when the host quit the match during the transition into the match.
+- for: wakeUp
+  text: Fixed an issue that caused {wakeUp} not to show exit gate auras.

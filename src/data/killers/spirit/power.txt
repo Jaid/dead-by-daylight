@@ -1,0 +1,12 @@
+{spirit} can use her power, Yamaoka's Haunting, to enter an ethereal plane and reappear at a new location.
+
+• Tap and Hold the Power button to charge. {spirit} will depart her physical body, leaving behind a stationary husk.
+
+While Yamaoka's Haunting is active:
+
+• {spirit} may traverse freely to a new location, moving at a faster rate for a short duration. She is still confined to movement within the physical environments and surroundings.
+• {spirit} leaves the physical plane, losing sight of all Survivors. She can, however, still sense the scratch marks they leave in the environment.
+• {spirit} will produce an audible cue at her current location.
+• Once the power has ended, {spirit} retains her speed boost for a brief period and her husk fades away.
+
+Using Yamaoka's Haunting depletes {spirit}'s power bar. The power bar will automatically replenish over time. The power bar must be fully replenished before it can be triggered again.

@@ -1,0 +1,8 @@
+- Added a Compendium page in the Archives. This page allows users to go back to previous Tomes and complete challenges. Completing challenges from a previous Tome will not give the user Rift Fragments.
+- "Added a new Rift and Challenges for Tome II in the Archives. A new popup will display once a new Tome & Rift are active. Note: Only Level I of Tome II will be accessible during the PTB."
+- Showing/Hiding the tally screen chat is persistent after every match. This feature has been added to each type of chat (party, online and tally) and is independent for each chat.
+- Removed the invert camera in-game keybinding and from the Controls menu. This option is still available in the Settings menu.
+- "Movement Extrapolation: Testing a system to make player positions more consistent between clients under normal latency conditions. This should reduce cases of Survivors getting hit by Killers who appear too far away. Note: This is only a test for PTB. This feature is not currently planned to be enabled for release."
+- Updated the Treatment Theatre map (see details below in the BALANCE section).
+- Removed Dutch & Swedish language support.
+- Disabled the Cursed Legacy Japanese thematic lobby.

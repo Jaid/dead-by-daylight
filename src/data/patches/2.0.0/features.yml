@@ -1,0 +1,12 @@
+- for: dwight
+  text: Added a new head customization item for {dwight} for players who own the Leatherface DLC
+- Added new idle animations for Killers in the offline lobby & store sections
+- Added new main menu music to tie in with the DLC Chapter
+- Added new sounds when Emblems appear in the Tally Screen based on their quality
+- Integrated Simplified Chinese, Japanese and Korean community localization
+- Removed the RedShell third party tool from the game
+- Added Tutorial levels to explain Survivor & Killer gameplay
+- Added an in-game Store to purchase characters and cosmetics. The store now also hosts the Shrine of Secrets.
+- Added the Player Level functionality. This is an account based progression that rewards the player with Iridescent Shards upon leveling up.
+- Re-designed all confirmation prompts
+- Updated the main menu and player loadout button layouts to accommodate for the newly added Store and Tutorials.

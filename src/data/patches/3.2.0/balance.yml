@@ -1,0 +1,6 @@
+- for: nightmare
+  text: "{nightmare} now applies the Oblivious status effect to Survivors when he brings them into the Dream World and they remain Oblivious for the entire duration that they spend in the Dream World. This is indicated to Survivors by the status effect icon on the right side of the screen. This change makes it so that {nightmare} has a constant 32 meter terror radius, however, Survivors do not hear it when they are in the Dream World. Survivors still hear {nightmare}'s lullaby when they are in the Dream World, however, they are no longer affected by terror radius based conditions for perks (such as {coulrophobia} or {overwhelmingPresence}). As a Survivor, if you do not hear The Killer's terror radius, you are not considered to be within The Killer's terror radius."
+- Added a new glow effect to Survivors' health bar when bleeding out, carried and hooked. This is used to indicate that the health bar depletion is paused.
+- for: nightmare
+  text: Added a debuff icon, similar to {trapper}'s Honing Stone add-on, when affected by {nightmare}'s Red Paint Brush, Swing Chains, Jump Rope and Outdoor Rope add-ons.
+- Adjusted the distance at which the player hears the Entity window blocker audio from 16 meters to 8 meters.

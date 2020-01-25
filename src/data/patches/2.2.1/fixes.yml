@@ -1,0 +1,15 @@
+- for: spirit
+  text: Fixed an issue that caused {spirit} to get instantly blinded with a flashlight
+- Fixed an issue that sometimes caused pallets to push killers without stunning them
+- for: shape
+  text: Fixed an issue that caused the Halloween music not to play when selecting {shape} in the Loadout
+- for: hag
+  text: Fixed an issue that caused triggered {hag}'s traps not to have a terror radius
+- for: clown
+  text: Fixed an issue that allowed {clown} to have consistent increased movement speed when combining the VHS Porn and Smelly Inner Soles add-ons
+- for: spirit
+  text: Fixed an issue that caused the cooldown for {spirit}'s Yamaoka's Haunting to be reduced when combining the Kaiun Talisman and the Katsumori Talisman add-ons
+- for: devourHope
+  text: Fixed an issue that caused {devourHope} to gain tokens every time a Survivor starts the unhook action (instead of upon completion of the interaction).
+- for: spirit
+  text: Fixed an issue that caused the duration of Yamaoka's Haunting to last longer as a client {spirit} killer in Kill Your Friends

@@ -1,0 +1,6 @@
+- text: Party Management & Friends List
+  points:
+    - Merged "Survive With Friends" grouping functionality into "Play As Survivor" flow.
+    - Friends List - See who is online and invite them to play or request to join an existing party, all from within the game.
+    - In-Game Notifications - Notifications for incoming invites, requests to join, and players joining / leaving your party.
+    - Survivor Parties now stay together between games - No need to re-invite after each match!

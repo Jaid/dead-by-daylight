@@ -1,0 +1,4 @@
+You start the trial with 3 Tokens.
+When your Aura would be shown to the Killer, the perk activates and a token is consumed.
+For the next {tiers:6/8/10} seconds while the perk is activated, your aura and scratch marks will not be shown to the Killer.
+This perk does not activate when you are in dying state or in a trap.

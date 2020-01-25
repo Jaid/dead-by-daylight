@@ -1,0 +1,1 @@
+By standing still for {tiers:4/3/2} seconds, you reduce your Terror Radius to 0 meters and become stealthy until you move or act again.

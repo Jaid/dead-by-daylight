@@ -1,0 +1,6 @@
+An incredibly powerful and heavy Chainsaw which sank its teeth into countless victims. A suitable birthday gift for {cannibal}.
+
+• Start a timed sweeping attack on activation.
+• Can hit multiple targets in one Chainsaw charge.
+• Running into an object forces {cannibal} into a Tantrum, this attack damages anyone around him.
+• Automatically puts victims in the dying state on a successful hit.

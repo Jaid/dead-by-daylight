@@ -1,0 +1,1 @@
+When a generator being repaired reaches 85%, you receive a noise notification and your Terror Radius is reduced to 0 meters for {tiers:8/10/12} seconds.

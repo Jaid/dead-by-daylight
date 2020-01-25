@@ -1,0 +1,4 @@
+A hulking and deadly Chainsaw of terrifying power. Grinds through flesh, bone and soul. Once revved up, sends its user into a violent frenzy.
+
+• Break into a crazed sprint on activation.
+• Automatically triggers dying state on a successful hit.

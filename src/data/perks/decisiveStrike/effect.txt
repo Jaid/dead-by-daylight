@@ -1,0 +1,8 @@
+{flavor:Using whatever is at hand, you stab at your aggressor in an ultimate attempt to escape.}
+
+After being unhooked or unhooking yourself, {this} will become active and usable for {tiers:40/50/60} seconds.
+While Decisive Strike is active, when grabbed by the killer, succeed a skill check to automatically escape the Killer's grasp and stun the Killer for 5 seconds.
+Succeeding or failing the {this} skill check will disable the perk.
+Successfully stunning the killer will result in you becoming the obsession.
+Increases your chances of being the obsession.
+The Killer can only be obsessed with one survivor at a time.

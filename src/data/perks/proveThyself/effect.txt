@@ -1,0 +1,2 @@
+For every other Survivor working on a generator within a 4 meter range, gain 10% repair speed bonus. This same bonus is also applied to all other Survivors within range. Gain {tiers:50%/75%/100%} more Bloodpoints for coop actions.
+Survivors can only be affected by one {this} effect at a time.

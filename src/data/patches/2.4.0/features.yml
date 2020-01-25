@@ -1,0 +1,36 @@
+- for: legion
+  text: Added {legion}
+  points:
+    - When teenagers get involved with an impulsive mastermind, they discover an addictive kind of freedom. Together, they spiral out of control and become the wrong kind of crowd. Players will choose to embody one of the agile teenagers able to catch Survivors off-guard with their power, Feral Frenzy.
+    - "{legion}'s power is: Feral Frenzy. When active, {legion} can move at a faster rate, vault pallets, and missed attacks have a shorter cooldown. Successful attacks made during the Frenzy apply a new status effect – DEEP WOUND – and reset the power’s duration, allowing {legion} to chain their attacks to multiple Survivors."
+    - text: "{legion} comes with 3 perks"
+      points:
+        - "{discordance}: Any time 2 or more survivors are working on the same Generator; the Generator's aura is highlighted for a short duration."
+        - "{madGrit}: While carrying a Survivor, you suffer no cooldown for missed attacks, and hitting another Survivor will pause the carried Survivor’s wiggle timer for a moment."
+        - "{ironMaiden}: You open lockers faster. Additionally, when a Survivor exits a locker, their location is revealed, and they suffer from the Exposed status effect for a while."
+- for: jeff
+  text: Added {jeff}
+  points:
+    - "{jeff} is an artist with a heart of gold. One morning, he got a phone call from Ormond, Alberta. Home. {jeff} revisited the home he left behind, but he should never have looked back."
+    - text: "{jeff} comes with 3 perks"
+      points:
+        - "{breakdown}: Any time you are removed from a hook (escaped or saved), the hook breaks and the Killer's aura is shown to you."
+        - "{aftercare}: A 2-way link is created between yourself and other Survivors when you cooperate. When you heal or rescue someone, or when someone heals or rescues you, a link is created, allowing you to see each other’s auras across the entire map."
+        - "{distortion}: You start the Trial with 3 tokens. When your aura would be shown to the killer, the perk activates, and a token is consumed. For a short period, your aura will not be shown to the Killer and you leave no scratch marks."
+- text: "New map: The Ormond Slopes Resort"
+  points: Welcome to Ormond, Alberta. Surrounded by an impressive mountain range, The Ormond Slopes Resort now lies derelict. The resort fell into disuse. Ormond’s resort was abandoned to decay, and then became a hideout for gangs of teenagers looking for trouble. Some people say it hid a darkness, a bottomless hole from where no one could return.
+- text: Unreal Engine Update
+  points:
+    - text: The updated engine has added support for many new features (especially in Audio & Rendering), but also caused some incompatibility with existing features the game relied on. As such, we have re-balanced a few very important components of the game (lighting, fog, sound & occlusion)
+      points:
+        - Added support for more realistic volumetric fog in all exterior maps.
+        - Adjusted audio balance and occlusion levels across all maps.
+        - Adjusted lighting across all themes and maps, quality settings, as well as Killer specific lighting conditions ({nightmare}'s dream world, etc).
+        - Reduced the distance at which a Killer's red stain is visible to Survivors.
+- text: New matchmaking system
+  points: We tested the new matchmaking system during the 2.4.0 PTB. For more info about the nature of this new matchmaking system and when it will roll out on the live environment, please consult this post.
+- "Added a new status effect for Survivors: Deep Wound. Survivors afflicted with the Deep Wound status effect need to mend before being able to heal themselves, or be healed by others. Survivors can mend each other."
+- Added the theme, map and tile information in the Pause menu. This feature is to better help our players and the Dev team when reporting map specific issues. Please be sure to include that information when reporting any map issues.
+- Integrated an updated version of the Unreal Engine (4.20, from 4.13).
+- "Map Scheduler: Added a server configuration to allow control of map frequency during Online Ranked matches. This will allow us to add or remove emphasis on certain maps or themes during specific periods. Map selection offerings will still normally take precedence over these."
+- Opening the Store from the offline lobbies will redirect the user to the currently selected character's catalog page.

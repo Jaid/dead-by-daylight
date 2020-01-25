@@ -1,0 +1,3 @@
+{flavor:Unlocks potential in one's aura reading ability.}
+
+The auras of unopened chests and items in the environment are revealed to you when standing within a {tiers:16/24/32} meter range. Grants a considerably better chance at finding an Item of a higher rarity from chests.

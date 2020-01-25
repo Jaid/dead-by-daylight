@@ -1,0 +1,20 @@
+- Users are unable to lose pips at any rank.
+- for: distortion
+  text: "{distortion} does not lose tokens."
+- for: doctor
+  text: "{doctor}'s Power tooltip is slightly cut off."
+- for: doctor
+  text: The cooldown of Shock Therapy is not currently working as intended.
+- for: doctor
+  text: Madness regresses while hiding in a locker and within {doctor}'s terror radius.
+- for: doctor
+  text: Some times {doctor}'s Static Blast animation does not play.
+- for: doctor
+  text: Survivors have no screaming animation when getting hit by {doctor}'s Static Blast.
+- for: doctor
+  text: Loud whispers are heard after performing the Snap Out Of It action.
+- Public matches persist if a user gets disconnected while loading into the match.
+- Some walls and assets have no projectile collision in the Treatment Theatre map.
+- Some generators cannot be damaged from one side in the Treatment Theatre map.
+- for: legion
+  text: A pallet cannot be Frenzy vaulted by {legion} in the Treatment Theatre map.

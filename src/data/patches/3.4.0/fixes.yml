@@ -1,0 +1,5 @@
+- Fixed an issue that caused the Archives ambient audio to play during the animatics.
+- Fixed an issue that caused the wrong sounds when walking on hills in the Coldwind Farm and Crotus Prenn Asylum maps.
+
+- Fixed an issue that caused the Select Challenge button prompt to be disabled when returning to the Play As Killer pre-lobby from a public lobby.
+- Fixed an issue that caused tooltips from cosmetics in the free track to overlap the Rift Tier progress in the Rift.

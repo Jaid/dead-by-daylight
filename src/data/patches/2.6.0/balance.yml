@@ -1,0 +1,43 @@
+- text: Add-on changes
+  points:
+    - "Add-on Ashen Apple: +5 seconds."
+    - "Add-on Hematite Seal: +10 seconds."
+    - "Add-on Incensed Ointment: +0.3 Movement Speed."
+    - "Add-on Iridescent Seal: Reduced the duration of Worship mode by 20 seconds."
+    - "Add-on Limestone Seal: +5 seconds."
+    - "Add-on Olibanum Incense: +0.3 Movement Speed."
+- text: Emblem changes
+  points:
+    - "Devout: Hook event condition reduced from 10+ to 9+ hook events required for Iridescent quality. This makes it easier to achieve Iridescent quality of Devout emblem."
+    - "Gatekeeper: Scoring defended generators points reduced. Quality threshold requirements reduced. This makes it easier to achieve all qualities of Gatekeeper emblem."
+- for: fireUp
+  text: "{fireUp} had its values increased after testing in the PTB. Value increased up from {tiers:2%/2.5%/3%} up to {tiers:3%/3.5%/4%} for a new maximum of {tiers:15%/17.5%/20%}."
+- for: thanatophobia
+  text: "{thanatophobia} had its values decreased after testing in the PTB. Values decreased from {tiers:4%/5%/6%} down to {tiers:3%/3.5%/4%} for a new maximum of {tiers:12%/14%/16%}."
+- for: wellMakeIt
+  text: "{wellMakeIt} had it's value fixed to 100% across all Tiers."
+
+- for: plague
+  text: Corrupt Purge base duration is now 60 seconds instead of 45 seconds.
+- for: plague
+  text: Increased {plague} Brutality and Deviousness scoring.
+- for: plague
+  text: Increased the duration of infection of environmental objects to 35 seconds instead of 20 seconds.
+- for: plague
+  text: Slightly increased {plague} movement speed while charging Vile Purge and Corrupt Purge.
+- for: plague
+  text: Slightly reduced {plague} movement Speed while fully charged and holding Vile Purge and Corrupt Purge.
+- for: plague
+  text: Survivor infection no longer resets once The Survivor is hooked.
+- for: plague
+  text: Vile Purge can now correctly infect gate switches.
+- for: plague
+  text: When all Pools of Devotion have been corrupted, all corrupted Pools of Devotion reset and The Killer automatically gains the Corrupt Purge effect.
+
+- for: plague
+  text: Scoring changes
+  points:
+    - Added a score event (Purge 200) for downing a Survivor with max sickness.
+    - Increased hitting a Survivor that's not sick increased to 150 from 125 (Infection).
+    - Increased hitting a Survivor with Corrupt Purge from 250 to 300.
+    - Increased hitting a sick Survivor with the vomit from 1/0.10 seconds to 2/0.10 seconds.

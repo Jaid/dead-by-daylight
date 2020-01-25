@@ -1,0 +1,4 @@
+A large foothold trap made of steel. Traps are found lying around the area waiting to be picked up and set anywhere.
+
+• Immobilizes and injures trapped victims.
+• Sabotaged Bear-Traps automatically respawn after 3 minutes.

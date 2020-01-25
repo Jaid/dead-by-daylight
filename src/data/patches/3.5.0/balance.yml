@@ -1,0 +1,8 @@
+- for: doctor
+  text: Updated the illusionary Doctor animation to play {doctor}'s in-game idle animation instead of the menu idle animation.
+- for: doctor
+  text: Set the cooldown of Shock Therapy to 1.5 seconds. This means it will take 1.5 seconds before {doctor} can hit with his primary weapon, use Shock Therapy or use Static Blast.
+- text: Treatment Theatre map update
+  points:
+    - Made each map tile unique (no repeated tiles).
+    - Updated the logic of vault spawns and activations for the Doctor's Office and the Treatment Room.

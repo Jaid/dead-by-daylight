@@ -1,0 +1,3 @@
+{flavor:Their courage fades in the face of their undeniable mortality.}
+
+For each injured, dying or hooked Survivor, all Survivors receive an action speed penalty of {tiers:3%/3.5%/4%} to a maximum of {tiers:12%/14%/16%}.

@@ -1,0 +1,1 @@
+When within 6 meters of a carried Survivor, you gain the Haste Status Effect, moving at {tiers:5%/6%/7%} increased speed. The carried Survivor's wiggle speed is increased by 20%.

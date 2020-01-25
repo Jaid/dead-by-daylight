@@ -1,0 +1,2 @@
+As soon as the Exit Gate is opened, {this} is activated. The Auras of any Survivors located within Exit areas are revealed to you.
+Once per trial, hooking a Survivor while {this} is active calls upon The Entity to block both Exits for all Survivors for {tiers:30/40/60} seconds.

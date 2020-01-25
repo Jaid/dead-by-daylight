@@ -1,0 +1,3 @@
+{flavor:Your acute tracking ability allows you to hone in on disturbances left by running Survivors.}
+
+Scratch Marks left by Survivors will spawn {tiers:slightly/moderately/considerably} closer together.

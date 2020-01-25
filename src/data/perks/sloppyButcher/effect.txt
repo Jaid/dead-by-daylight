@@ -1,0 +1,4 @@
+{flavor:You know where to hit to make them bleed.}
+
+Wounds inflicted by successful attacks {tiers:slightly/moderately/considerably} increase the Survivor's bleeding frequency and cause the Mangled status effect.
+Bleeding and Mangled effects caused by {this} return to normal once the Survivor is fully healed.

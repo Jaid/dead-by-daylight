@@ -1,0 +1,3 @@
+{flavor:Your acute senses are on high alert.}
+
+When the Killer performs a break action, the Killer is revealed to you for {tiers:3/4/5} seconds.

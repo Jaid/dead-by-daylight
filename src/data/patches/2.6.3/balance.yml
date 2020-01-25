@@ -1,0 +1,5 @@
+- for: decisiveStrike
+  text: Changed the {decisiveStrike} stun time to 5 seconds, with the Survivor being free to move after 1 second.
+  points: With feedback from the PTB and Live, we have changed the {decisiveStrike} stun time to 5 seconds, with the Survivor being free to move after 1 second. This should allow for the survivor to have ~ 4 seconds at a base to try and escape the killer after the stun is successful. When {enduring} is used, the stun will be reduced to ~2.8 seconds. Of those 2.8 seconds the survivor will get a head start of ~ 2.28 seconds which makes escaping possible but much harder.
+- for: decisiveStrike, enduring
+  text: "{enduring} now affects {decisiveStrike}'s stun."

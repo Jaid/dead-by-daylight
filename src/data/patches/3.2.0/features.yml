@@ -1,0 +1,15 @@
+- Merged "Survive With Friends" grouping functionality into "Play As Survivor" flow.
+- Friends List - See who is online and invite them to play or request to join an existing party, all from within the game.
+- In-Game Notifications - Notifications for incoming invites, requests to join, and players joining / leaving your party.
+- Survivor Parties now stay together between games - No need to re-invite after each match!
+- Increased the amount of perks available in the players Bloodweb, starting at level 40.
+- Added 2 new score events when escaping and dying as the Obsession in the Survival category.
+- for: meg
+  text: Reworked the hair on {meg}'s Game Set Match head customization items.
+- for: meg
+  text: Adjusted the dynamic animation on the pony tail for {meg}'s Teen Angst head customization item.
+- for: meg
+  text: Added the band aid on {meg}'s knee for the Tempo Runner outfit. Icons have also been updated to reflect this.
+- for: jake
+  text: Reworked the hair on {jake}'s Sharp Mustache Jake and Old Man Jake head customization items.
+- Optimization of hair materials.

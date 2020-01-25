@@ -1,0 +1,2 @@
+When performing a fast vault or leaving a locker in a sprint, you leave no scratch marks for 3 seconds.
+{this} has a cooldown of {tiers:60/50/40} seconds.

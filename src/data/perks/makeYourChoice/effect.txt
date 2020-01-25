@@ -1,0 +1,2 @@
+When a Survivor rescues another from a Hook at least 32 meters away from you, {this} triggers and applies the Exposed status effect on the rescuer for {tiers:40/50/60} seconds.
+{this} has a cooldown of {tiers:40/50/60} seconds.

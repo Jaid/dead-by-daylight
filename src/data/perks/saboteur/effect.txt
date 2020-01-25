@@ -1,0 +1,1 @@
+Unlocks the ability to sabotage without a toolbox at 50% the normal sabotage speed. Hooks and traps you sabotage stay broken for an extra {tiers:10/20/30} seconds.

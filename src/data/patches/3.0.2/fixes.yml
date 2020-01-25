@@ -1,0 +1,17 @@
+- for: vigil
+  text: Fixed an issue that caused {vigil} to extend the Exhaustion duration.
+- for: furtiveChase
+  text: Fixed an issue that caused {furtiveChase} to swap the Obsession to anyone who unhooks any Survivor.
+- for: spirit
+  text: Fixed an issue that caused {spirit}'s passive phasing VFX to be missing.
+- for: hag
+  text: Fixed an issue that caused missing blood splatters and camera shake when {hag} successfully landed a hit.
+- Fixed an issue that caused injured Survivors to get stuck on top of any locker when getting hit by the Killers lunge attack while exiting.
+- Fixed an issue that caused female Survivors not to be able to successfully vault through the crashed school bus middle window in the Autohaven Wrecker's maps.
+- for: ghostFace
+  text: Fixed an issue that caused {ghostFace} to be unable to crouch or lean if a Survivor disconnected while getting picked up.
+- for: ghostFace
+  text: Fixed an issue that caused {ghostFace}'s Reveal SFX to loop if spotted by a Survivor leaving by the hatch or the exit gates.
+- Fixed an issue that caused the Killer carrying a Survivor music to be missing.
+- Adjusted music & sound balance to fix issues with in-game audio. This will improve the compatibility of the game's audio output with headphones emulating surround sound.
+- Misc cosmetic improvements

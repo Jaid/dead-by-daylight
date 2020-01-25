@@ -1,0 +1,1 @@
+While carrying a Survivor, you suffer no cooldown on missed attacks and successfully hitting another Survivor will pause the carried Survivor's wiggle timer for {tiers:2/3/4} seconds.

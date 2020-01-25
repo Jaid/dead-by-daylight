@@ -1,0 +1,5 @@
+- for: hillbilly
+  text: "{hillbilly}'s chainsaw spring movement speed is randomly reduced to walking speed."
+- Basements in the Treatment Theatre map are missing their inner walls.
+- There are several hatch locations that cannot be opened with a key.
+- Friend list duplicate if player accept a friend request in Steam

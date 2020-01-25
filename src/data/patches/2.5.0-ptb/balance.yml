@@ -1,0 +1,65 @@
+- Changed the lobby music back to the default music.
+- Remixed volume levels for footsteps, music & VOs.
+- Removed the attenuation on VOs and footsteps that were integrated in the 2.4.0 release.
+
+- for: bloodWarden
+  text: Added a timer on the perk in the HUD to better indicate when and for how long Blood Warden is active.
+- for: ironMaiden
+  text: Reduced Survivor location notification from 4 seconds to 3 seconds.
+- for: spiesFromTheShadows
+  text: Increased the chances of a visual notification to 100% for all tiers. Added crow outline in Loud Noise notification. Increased the notification range from {tiers:16/24/36} meters to {tiers:32/40/48} meters.
+- for: surveillance
+  text: Increased audible repair sounds by a distance by 8 meters. Any regressing generators will be highlighted by a white aura. If regression on a generator is interrupted, it will be highlighted by a yellow aura for {tiers:8/12/16} seconds.
+
+- for: legion
+  text: Manually ending Frenzy no longer depletes the remainder of your Power gauge.
+- for: legion
+  text: Reduced the intensity of the blurred VFX during Frenzy.
+
+- for: pig
+  text: Adjusted the Combat Straps add-on in accordance to the crouch duration change, decreased value from 1 second to 0.3 seconds.
+- for: pig
+  text: Changed the Terror Radius fade time for when crouching / uncrouching to fade out/in ~4 seconds, down from 6.6 seconds.
+- for: pig
+  text: Decreased the base crouch and uncrouch duration from 2 seconds to 1.3 seconds.
+- for: pig
+  text: Increased Terror Radius from 28 meters to 32 meters.
+- text: Scoring Adjustments
+  points:
+    - "Hit during dash attack: increased from 250 to 500."
+    - "Initiate dash attack: increased from 50 to 100."
+
+- Added extra hooks spawning spots around certain buildings to improve hook distribution.
+- "Backwater Swamp: Adjusted height of bulrushes."
+- "Backwater Swamp: Increased the spawning probability of the hooks in the center portion of the map to prioritize this portion of the map in favor of the edges."
+- "Badham Preschool: Now forcing a hook to spawn in the back of the preschool school if the basement is not there."
+- Changed the basement reference point (used to calculate hook to basement distance) to the top of the basement stairs instead of being in the middle of the basement.
+- "Grim Pantry: Added a new crow bomb to the map."
+- for: pig
+  text: Procedural System - Added a minimum distance between chests so that jigsaw boxes don't spawn too close together.
+- "Procedural System - Hook distribution adjustments: changed the amount and distribution of hooks for each map. Every map now has a baseline minimum distance between hooks, a minimum number of hooks and a maximum number of hooks. Procedural System - Hook offerings now modify the newly introduced minimum distance between hooks. This distance will ultimately be ignored in the case where the minimum number of hooks requirements are not fulfilled. The effect of each offering is as such: Moldy Oak (Uncommon) = -1.5m, Rotten Oak (Rare)= -2.5m, Putrid Oak (Very Rare) = -3.5m, Petrified Oak (Survivor Very Rare) = +1m."
+- Reduced basement to hook minimum distance to 16 meters.
+- "The Game: Added a few extra signs to help players navigate to the stairs."
+- "Totem placement improvements: Recent upgrades to the totem interaction method allows the level design team to place the totems closer to other objects and as such, totem placement and hiding spots will be continuously improved starting with this update."
+
+- All status effects that are timer based no longer stack or automatically reset the timer, but rather, take the highest remaining status timer and ignore the other.
+- If the new timer is the higher one, the previous timer is discarded and the status effect icon will visually reset to 100%. If the new timer is the lower one, the new timer is discarded and the status effect icon remains at its current progression.
+
+- for: distortion
+  text: Updated text to reflect that this perks effect does not trigger when survivors are in the dying state or affected by traps.
+- for: leader
+  text: All action speeds, with the exception of repair speed, are increased to {tiers:15%/20%/25%} instead of {tiers:3%/6%/9%}. The effect now persists for 15 seconds after the perk owner is out of range. Only one {leader} effect at a time.
+- for: proveThyself
+  text: For every other Survivor working on a generator within a 4m range, gain 10% repair speed bonus. This same bonus is also applied to all other Survivors within range. Gain {tiers:50%/75%/100%} more Bloodpoints for coop actions. Only one Prove Thyself effect at a time.
+- for: technician
+  text: All tiers reduce audible repair sounds by a distance of 8 meters, up from 0/-4/-8.
+
+- "Hidden Killer Loadout: Removed the ability for Survivors to view the Killers perks, add-ons and offerings in the tally screen during an on-going match. Killer information will be revealed once all Survivors have exited the match."
+- "Item Interaction: Items found in chests without already holding an item now require being picked up. This makes the interaction consistent with when you have an item already in hand and allows you to see what you have found before you commit to picking it up."
+- "Mori Icon: If The Killer has played a mori offering, the offering's icon will be displayed in the in-game HUD when the conditions are valid and they are standing over a downed Survivor."
+
+- Adjusted the Vault mechanic so that survivors come out of the vault with momentum, instead of being set to 0 movement speed after a vault.
+- After seeing the positive reaction to higher rarity items being looted from chests during the Winter Solstice, we've updated chest drop rates to support this after the event ends.
+- Changed the Medium Vault speed to last 0.9 seconds down from 1 second.
+- Created a new Medium Vault animation to distinguish the medium from the slow and fast vaults.
+- Renamed the "Hooked" scoring event to "Caught!" and the "Hook" scoring event to "Hooked". Fixed an issue that made it impossible to gain progress on coop Daily Rituals (The Initiation).

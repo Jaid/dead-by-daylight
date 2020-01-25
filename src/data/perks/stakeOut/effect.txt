@@ -1,0 +1,4 @@
+{flavor:Getting close to the Killer fills you with determination.}
+
+For each 15 seconds you are standing within the Terror Radius and are not in a chase, you gain a Token up to a maximum of {tiers:2/3/4} Tokens.
+When {this} has at least 1 Token, Good Skill Checks are considered Great Skill Checks and consume 1 Token.

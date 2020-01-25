@@ -1,0 +1,3 @@
+{flavor:You have an uncanny ability to escape the inevitable.}
+
+While in the dying state, 50% of your recovery progression is converted into wiggle progression when you are picked up by the Killer, up to a maximum of {tiers:40%/45%/50%} total wiggle progression.

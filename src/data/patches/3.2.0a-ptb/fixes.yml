@@ -1,0 +1,16 @@
+- for: headOn
+  text: Fixed an issue that caused Killers to retain collision when being stunned by {headOn}.
+- for: clown
+  text: Fixed an issue that caused Survivors affect by {clown}'s gas to only scream the first time they're affected.
+- Fixed an issue that caused a crash when exiting the Tutorials.
+- Fixed an issue that caused cosmetics equipped in a public lobby not to be displayed in a match.
+- Fixed an issue that caused the host to become stuck in the Custom Game lobby after attempting to leave the party.
+- Fixed an issue that caused a crash when pulling the Ethernet cable and attempting to leave the match result screen in a public match.
+- Fixed an issue that caused no audio cue when receiving a Toast notification.
+- Fixed an issue that caused two friends accepting a game invite at the same time to cause either a crash or an Unknown Error.
+- Fixed an issue that sometimes caused the plus signs on the silhouettes not to be displayed.
+- Fixed an issue that allowed the spectator in a Custom Game lobby to send invites to players.
+- for: feng
+  text: Fixed an issue that caused {feng}'s face to disappear depending on camera angle in-game.
+- Fixed an issue that caused a spectator in a Survive With Friends party not be brought back to the IIS when disconnecting the Ethernet cable.
+- Misc localization improvements.

@@ -1,0 +1,69 @@
+- Decreased the distance at which you can hear Survivors breathing and grunting while they are hiding in lockers.
+- Adjusted the basement occlusion audio balance. This will make sounds coming from the basement to be attenuated or muted in most circumstances.
+- Added / Adjusted audio occlusion for buildings with multiple floors.
+
+- text: Emblem changes
+  points:
+    - "Chaser Scoring: The proximity penalty has been increased. The longer a Killer stays within a close proximity (16m) to a hooked Survivor, the more points they will lose in the Chaser emblem."
+    - "Devout Scoring: The scoring thresholds have been modified. 3 kills now also result in a Silver emblem, whereas 4 kills results in Gold. To earn an Iridescent Devout emblem, you need to perform 10 or more hook events and sacrifice all 4 Survivors."
+    - "Gatekeeper Scoring: The scoring formula has been adjusted completely. Killers earn incremental points based on how few generators have been completed, each minute for the first nine minutes of the match - regardless of how long the match takes. The longer the gens are not completed, the more points they are worth. At the end of the match, the Killer also gains bonus points based on how few generators have been completed. Note: If the match is over before nine minutes is up, they receive points for the remaining minutes (up to nine) based on how few generators had been completed at the end of the match."
+
+- The intensity of the Terror Radius is now scaled based on the vertical distance (in addition to the horizontal distance).
+- Survivors entering lockers now have the Blindness Status Effect applied to them.
+- for: decisiveStrike, headOn
+  text: Added a new scoring event for perk-based stun events ({decisiveStrike}/{headOn}) worth 500 Bloodpoints. This is referred to as Killer Stun in game.
+- Reduced the time before a player can heal a player who has recently moved, this should allow for players to start healing a recently cancelled heal quicker than before.
+
+- for: bbqAndChili
+  text: Auras are revealed from 40 meters for all tiers of the perk instead of 52/46/40 meters.
+- for: distressing
+  text: All tiers award 100% bonus Bloodpoints.
+- for: fireUp
+  text: Grants a stackable {tiers:2%/2.5%/3%} action speed bonus.
+- for: devourHope
+  text: "The perk grants {tiers:3%/4%/5%} speed boost with 2 tokens, Exposed status applied at 3 tokens, and Kills are available at 5 tokens."
+- for: ruin
+  text: All tiers affect all Survivors and apply a penalty of {tiers:3%/4%/5%} regression on a good skill checks.
+- for: thrillOfTheHunt
+  text: All tiers grant 10% bonus Hunting Bloodpoints per remaining totem. Cleansing speeds are the same.
+- for: monitorAndAbuse
+  text: The FOV values are {tiers:3/5/10} instead of {tiers:slightly/moderately/considerably} increased. Also simplified the Terror Radius value so that each tier modifies the Terror Radius by the same value, 8 meters instead of 6/7/8.
+- for: spiesFromTheShadows
+  text: Added a 5 second cool-down when the perk triggers.
+- for: thanatophobia
+  text: Tier values are incremented at a rate of {tiers:4%/5%/6%} up to a maximum of {tiers:16%/20%/24%}.
+
+- text: Procedural map changes
+  points:
+    - Added a new line of sight check for totem spawn points within 32m from a survivor spawn point.
+    - Added a minimum distance of 48m between chest objects.
+    - Increased the minimum number of pallets to 8 (global).
+    - Distances between spawnable objects(generators, hooks, pallets etc) are now scaled based on a vertical factor(in addition to the baseline horizontal distance).
+    - Minimum distance between pallets was reduced for the Shelter Woods map.
+    - Some gameplay object placement changes in the Foundry.
+    - Some gameplay object placement changes on the Water Tower landmark tile.
+    - Added door frames in The Game map.
+    - Added new tiles to the Red Forest maps.
+
+- text: Ranking changes
+  points:
+    - text: "Pipping Thresholds: We have made some changes to the Emblem system that will affect the difficulty in which players rank up and subsequently maintain their rank. The rank groups (colors) now come with their own pipping requirements. The thresholds increase through each rank group up to the red ranks making it more difficult to pip / double pip, and easier to lose a pip."
+      points:
+        - "Rank 17-20 (BEIGE): 0-8 points = 0 pips; 9-13 points = +1 pip; 14-16 points = +2 pips."
+        - "Rank 13-16 (YELLOW): 0-5 points = -1 pip; 6-9 points = 0 pips; 10-13 points = +1 pip; 14-16 points = +2 pips."
+        - "Rank 9-12 (GREEN): 0-6 points = -1 pip; 7-10 points = 0 pips; 11-14 points = +1 pip; 15-16 points = +2 pips."
+        - "Rank 5-8 (PURPLE): 0-7 points = -1 pip; 8-11 points = 0 pips; 12-14 points = +1 pip; 15-16 points = +2 pips."
+        - "Rank 1-4 (RED): 0-8 points = -1 pip; 9-12 points = 0 pips; 13-15 points = +1 pip; 16 points = +2 pips."
+
+- for: decisiveStrike
+  text: "After being unhooked by another player or yourself, {decisiveStrike} becomes active for 60 seconds. If you are grabbed by the Killer while the perk is active, succeeding a skill check to cause an automatic escape and stun the Killer for 3 seconds. Succeeding or failing the skill check will disable the perk for the rest of the trial. Succeeding the skill check (and thus stunning the Killer) will result in you becoming the Obsession."
+- for: empathy
+  text: "{empathy} now works within a range of {tiers:64m/96m/128m}."
+- for: lithe
+  text: "Removed the chase condition. {lithe} now only triggers on rushed vaults."
+- for: kindred
+  text: "All Survivor's auras are shown at all tiers. If the Killer is within a {tiers:8/12/16} meter range of the hooked Survivor, the Killer's aura is revealed to all other Survivors."
+- for: pharmacy
+  text: All tiers have a reduced audible distance of 8 meters.
+- for: wakeUp
+  text: "All tiers reveal auras at 128 meters."

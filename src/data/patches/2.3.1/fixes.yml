@@ -1,0 +1,2 @@
+- Fixed an issue that would cause the interaction efficiency penalty of self-healing or sabotage to apply to other interactions if the Med-Kit or Toolbox used for the interaction would deplete.
+- Fixed an issue that caused the Survivor camera to be placed out of world when crouch entering a locker

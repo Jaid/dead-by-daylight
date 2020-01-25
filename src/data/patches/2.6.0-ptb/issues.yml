@@ -1,0 +1,24 @@
+- for: trapper
+  text: Bear traps sink into the ground in multiple areas of the Temple of Purgation map.
+- Cannot spectate when starting the Kill Your Friends lobby as a spectator.
+- for: darkDevotion
+  text: "{darkDevotion} has multiple issues with various Obsession perks/add-ons."
+- for: infectiousFright
+  text: "{infectiousFright} is not working as intended. When activated, it should show Survivors location, not auras. The text and behaviour are being fixed internally."
+- It is possible there could be a desync between host and clients when multiple players are working on a generator
+- for: spirit
+  text: Missing audio on {spirit}'s husk when Phase Walking.
+- for: plague, clown
+  text: Occasionally {plague} and {clown} will lose all animation from a Survivors point of view.
+- for: trapper
+  text: Stepping in a bear trap can cause the audio to play repeatedly.
+- for: plague
+  text: Survivors play 2 different animations when being puked on right before an action.
+- for: plague
+  text: The infected VFX on the players screen is black and textureless, and covers too much of the screen.
+- for: plague
+  text: "{plague} can infect the exit switch by vomiting on the exit doors"
+- for: plague
+  text: "{plague} is awarded the Contagious score event when vomiting on repaired generators and unpowered exit gates"
+- for: plague
+  text: "{plague}'s power has no audio when more than 10 meters away, and is mostly drowned out by the terror radius when less than 10 meters away."

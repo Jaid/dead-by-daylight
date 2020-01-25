@@ -1,0 +1,13 @@
+- for: nightmare
+  text: Added a debuff icon, similar to {trapper}'s Honing Stone add-on, when affected by {nightmare}'s Red Paint Brush, Swing Chains, Jump Rope and - Outdoor Rope add-ons.
+- Added 2 new score events when escaping and dying as the Obsession in the Survival category.
+- Increased the amount of perks available in the players Bloodweb, starting at level 40.
+- Added a new glow effect to Survivors' health bar when bleeding out, carried and hooked. This is used to indicate that the health bar depletion is paused.
+- Adjusted the distance at which the player hears the Entity window blocker audio from 16 meters to 8 meters.
+- Reworked the Close Hatch animation
+- for: leftBehind
+  text: When you are the last Survivor alive in the trial, the hatch aura is revealed to you within a {tiers:24/28/32} meter range.
+- for: darkSense
+  text: Now triggers from any generator completion instead of only generators completed by the perk owner.
+- for: dyingLight
+  text: You become obsessed with one survivor. Your obsession gains a 33% action speed bonus to unhooking and healing other survivors. Each time you hook a Survivor other than the Obsession, if the Obsession is alive, gain a token. If the Obsession is alive, all Survivors who are not the Obsession get a {tiers:2%/2.5%/3%} penalty to Repair, Healing and Sabotage speed for each token.

@@ -1,0 +1,3 @@
+{flavor:Unlocks potential in one's Aura-reading ability.}
+
+The Auras of Survivors who are healing or being healed are revealed to you when they are within a {tiers:20/24/28} meter range.

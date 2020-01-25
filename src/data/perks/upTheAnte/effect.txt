@@ -1,0 +1,3 @@
+{flavor:All will be well in the end; you just know it. Your confidence strengthens the feeling of hope for those around you.}
+
+For each other Survivor still alive, grant a {tiers:1%/2%/3%} bonus of luck to all remaining Survivors.

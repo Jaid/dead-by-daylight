@@ -1,0 +1,18 @@
+- Removed the stun VFX when Killers entered stun state.
+- Reduced the camera shake on successful hits.
+- for: ghostFace
+  text: "Slightly reduced the stalk rate add-ons: Telephoto Lens (to -0.25 seconds, down from -0.5 seconds total stalk time required), Night Vision Monocular (to -0.75 seconds, down from -1.0 seconds total stalk time required)."
+- for: ghostFace
+  text: Adjusted all stalk rate add-ons (Philly, Telephoto Lens, Knife Belt Clip and Night Vision Monocular) so that they only affect stalking while not leaning. Stalking while leaning is twice faster than normal stalking.
+- for: ghostFace
+  text: Slightly increased the Killer Instinct base duration to 2 seconds from 1.5 seconds.
+- for: ghostFace
+  text: "Slightly increased Killer Instinct add-ons: Marked Map (to 1 second, up from 0.5 seconds), Victim’s Detailed Routine (to 1.5 seconds, up from 1.0 seconds)."
+- for: ghostFace
+  text: Slightly increased the Detection area in the center of screen for Survivors attempting to reveal {ghostFace} by 4% on each side of the screen (total of 8%).
+- for: ghostFace
+  text: Fixed an issue that allowed {ghostFace} to stay Night Shroud when stunned by a pallet.
+- for: ghostFace
+  text: Fixed an issue that allowed {ghostFace} to continue stalking already Marked Survivors.
+- for: ghostFace
+  text: Removed the proximity Sound that {ghostFace} generated while in Night Shroud (only his clothes emit sound while he moves).

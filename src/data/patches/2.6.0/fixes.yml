@@ -1,0 +1,49 @@
+- for: nurse
+  text: Fixed an issue that allowed {nurse} to blink under the Temple stairs in the Temple of Purgation map.
+- Fixed an issue that cause items obtained in a match to be added to the players' inventory when they quit the same match.
+- for: plague
+  text: Fixed an issue that caused Corrupt Purge to turn into Vile Purge while it's being used.
+- for: plague
+  text: Fixed an issue that caused Survivors to see {plague}'s vomit stream green while she had Corrupt Purge.
+- for: legion, spirit
+  text: Fixed an issue that caused {legion} and {spirit} to be unable to user their power while blinded.
+- for: plague
+  text: Fixed an issue that caused {plague} to get the Contagious score event when vomiting on completed generators and unpowered exit gates.
+- for: deerstalker
+  text: Fixed an issue that caused Tier I and II {deerstalker} not to display auras at 20/28 meters respectively.
+- Fixed an issue that caused improper character placement when hiding in a specific locker on a specific tile in the Red Forest maps.
+- for: plague
+  text: Fixed an issue that caused infected flashlights to permanently have the infected/stinky green VFX.
+- Fixed an issue that caused invisible collision on the tracks in the mine building in the Suffocation Pit map.
+- for: plague
+  text: Fixed an issue that caused sickness to be gained when using a map item or a key with aura reading add-ons.
+- for: plague, diversion
+  text: Fixed an issue that caused sickness to be gained when using {diversion}.
+- for: ironGrasp
+  text: Fixed an issue that caused the 75% reduced wiggle effect not to be applied on Tiers I & II of {ironGrasp}.
+- for: shape
+  text: Fixed an issue that caused the {evilWithin} tier up music to play lower in volume and muffle all other sounds.
+- for: trapper
+  text: Fixed an issue that caused the bear trap audio to rapidly loop when vaulting into a trap.
+- Fixed an issue that caused the gold assets in the Temple of Purgation map to appear textureless on Low graphic settings.
+- Fixed an issue that made it possible to become permanently stuck inside the temple doors when in the doorway(s) while the generator on the lower floor was repaired in the Temple of Purgation map.
+- for: headOn, decisiveStrike
+  text: Fixed an issue that caused the stun from {headOn}/{decisiveStrike} to last longer than 3 seconds.
+- for: plague
+  text: Fixed an issue that could cause {plague}'s vomit stream to appear in a random area on the ground.
+- Fixed an issue that could cause players to spawn on top of a tree when loading into the Lampkin Lane map.
+- for: plague
+  text: Fixed an issue that could sometimes cause the progress bar not to visually progress and cleansing animation to loop while Survivors cleansed their sickness.
+- for: plague
+  text: Fixed an issue that made it impossible for {plague} to infect items in a chest.
+- for: plague
+  text: Fixed an issue that made it impossible for {plague} to use her power in the basement and in the house in the Family Residence map.
+- Fixed an issue that made it impossible to Spectate when starting the Kill Your Friends match as a spectator.
+- Fixed an issue that made it impossible to blind Killers with the fire cracker items.
+- Fixed an issue that made it impossible to repair a generator from one side in the Rotten Fields map.
+- Fixed multiple crashes that were introduced in the PTB.
+- Fixed the LODs on rocks in The MacMillan Estate maps that caused them to disappear.
+- Made 2 hooks available on the lower floor of the Temple of Purgation map when the basement spawns in the Shack.
+- for: plague
+  text: Misc The Plague audio improvements.
+- Misc customization LOD, Apex & camera improvements.

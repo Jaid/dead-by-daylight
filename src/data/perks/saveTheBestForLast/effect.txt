@@ -1,0 +1,6 @@
+You become obsessed with one Survivor.
+Earn a Token for each successful hit that is not dealt to the Obsession.
+Each Token grants a stackable 5% decreased cooldown on successful attacks. You can earn up to 8 Tokens.
+Attacking your Obsession will make you lose {tiers:4/3/2} Tokens.
+You can no longer gain Tokens if your Obsession is sacrificed or killed.
+The Killer can only be obsessed with one Survivor at a time.

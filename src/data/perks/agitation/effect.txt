@@ -1,0 +1,3 @@
+{flavor:You get excited in anticipation of hooking your prey.}
+
+Increases your movement speed while transporting bodies by {tiers:6%/12%/18%}. While transporting a body, your Terror Radius is increased by 12 meters.

@@ -1,0 +1,97 @@
+- Fixed an issue that caused the Halloween music to play too loud during the camera intro when loading into Lampkin Lane.
+- for: huntress
+  text: Fixed an issue that caused {huntress} to have the charging hatchet audio cue when reloading hatchets in a locker.
+- for: clown
+  text: Fixed an issue that caused the chase music to change while under the effects of {clown}'s gas bottles.
+- Fixed an issue that caused the node purchasing audio to loop if swapping characters while purchasing a node in the Bloodweb.
+- Fixed the rain audio while inside in the Red Forest maps.
+- for: leader, technician, distortion
+  text: Major localization and translation improvements. Among these improvements included fixing the proper Spanish translations for the {leader}, {technician} and {distortion} perk descriptions, that were erroneously displaying the Lunar Event objective text, then reverted to out of date texts in patch 2.5.3.
+
+- for: playWithYourFood
+  text: Fixed an issue that caused {playWithYourFood} tokens to be consumed when throwing a gas bottle.
+- for: clown
+  text: Fixed an issue that caused {clown}'s bottle to disappear at the end of his Reload animation.
+- for: doctor
+  text: Fixed an issue that caused {doctor} not to see the illusionary pallet auras when using the "Order" add-ons.
+- for: hag
+  text: Fixed an issue that caused {hag}'s Phantasms not to have a terror radius when the traps were triggered.
+- for: huntress
+  text: Fixed an issue that caused {huntress}' animation to stutter when throwing a hatchet.
+- for: huntress
+  text: Fixed an issue that caused {huntress}' hatchet cancel animation to be almost instant.
+- for: legion
+  text: Fixed an issue that caused {legion} to snap into position when vaulting a pallet.
+- for: nightmare
+  text: Fixed an issue that caused {nightmare}'s leg to be misaligned during the pallet break and generator damage animations.
+- for: shape
+  text: Fixed an issue that caused {shape}'s Vanity Mirror and Scratched Mirror add-ons to grant the incorrect amount of points on the first 2 hits. The points are now 300 per attack, and with the bonuses are 450 & 600 respectively.
+- for: trapper
+  text: Fixed an issue that caused {trapper}'s Honing Stone debuff icon to remain active in the HUD if rescued from a trap by another Survivor.
+- for: trapper
+  text: Fixed an issue that caused {trapper}'s Logwood Dye and Tar Bottle add-ons not to darken traps from Survivor point of view.
+
+- Adjusted the Scratch Mark material and texture to be seen more clearly in the Mount Ormond Resort map.
+- for: legion
+  text: Adjusted the collision on certain rock assets that allowed {legion}'s camera to clip inside of them in the Mount Ormond Resort map.
+- Fixed an issue that allowed players to shimmy up collision on the rocks on the hill, making them unreachable by the killer.
+- for: huntress
+  text: Fixed an issue that allowed {huntress} to throw her hatchets through multiple car assets in the Autohaven Wrecker's maps.
+- for: huntress
+  text: Fixed an issue that allowed {huntress} to throw her hatchets through the storage bins in The Game map.
+- for: nurse
+  text: Fixed an issue that allowed {nurse} to blink out of world through the top and bottom floor walls on a specific corner tile in The Game map.
+- Fixed an issue that caused an impassable gap between a snow pile and a tree in the Mount Ormond Resort map.
+- Fixed an issue that caused an invisible collision on one of the corners of the Resort building in the Mount Ormond Resort map.
+- Fixed an issue that caused an invisible collision on the staircases in The Game map.
+- for: trapper
+  text: Fixed an issue that caused bear traps to sink below the ground in and around the two-story house in the Badham Preschool map.
+- for: trapper
+  text: Fixed an issue that caused bear traps to sink below the ground in the Blood Lodge map.
+- Fixed an issue that caused the blood decals in the house basements to disappear at certain angles in Lampkin Lane.
+- Fixed an issue that caused the wrong hook to spawn when the basement was not spawned in the preschool in the Badham Preschool map.
+- Fixed an issue that could cause players to get stuck when going down a hole with a pig's head in The Game map.
+- Fixed an issue that could cause rocks on the hill assets to have the wrong texture in various maps.
+- for: nurse
+  text: Fixed an issue that made it difficult for {nurse} to blink around, on and through the Ferry Boat in The Pale Rose map.
+- Fixed an issue that made it impossible to rush vault a specific window in one of the small houses in Lampkin Lane.
+- Fixed an issue that made it impossible to use a key when the hatch spawned the wrong way on the Garden tile in the Family Residence map.
+- Fixed an issue that made it impossible to use a key when the hatch spawned the wrong way on the Lookout tile in the Mount Ormond Resort map.
+- Fixed an issue that made it possible to get stuck in a specific hill collision in the Family Residence map.
+- Fixed the hex totem procedural spawn in various maps.
+- Fixed the textures on the hills in the Mount Ormond Resort map.
+- Misc LOD fixes.
+- Optimized the lighting in the Mount Ormond Resort map that was causing low framerate.
+
+- Fixed an issue that allowed Survivors to go out of world and hold the game hostage when wiggling free or being dropped by the Killer at the exit threshold.
+- Fixed an issue that caused {meg} in the Killer Tutorial not to run away.
+- Fixed an issue that caused owned characters and cosmetics to become unavailable after purchasing Auric Cells (which was fixed by relaunching the game).
+- Fixed an issue that caused survivors to be stuck in place if another survivor was healing them and got disconnected from the network.
+- Fixed an issue that caused the Deep Wound on screen blood splatters to disappear when the bleed out bar ran out while Mending.
+- Fixed an issue that caused the Safe Hook Rescue score event to trigger regardless of the state of the unhooked survivor, which in turn caused improper Benevolent Emblem rewards.
+- Fixed an issue that caused the trap disarm animation to have missing frames.
+- Fixed an issue that could cause female Survivors to temporarily lose their running animation after pulling down a pallet.
+- Fixed an issue that made it impossible to track progress on The Saviour Ritual when the exit gates were powered but not opened.
+- Fixed an issue that made it possible to exceed the maximum amount of points for the Devout Emblem.
+- Misc cosmetic clipping and improvements.
+- Tentatively fixed an issue that could cause a client to see a Hex Totem as a Dull Totem.
+- Tentatively fixed an issue that could cause players to get stuck in trees.
+- Fixed an issue that caused the Left For Dead achievement to be awarded without meeting the requirements.
+- Fixed an issue that caused the Shock Therapy achievement not to unlock when meeting the requirements.
+
+- for: bitterMurmur
+  text: Fixed an issue that caused {bitterMurmur} not to show all Survivors' auras when the last generator was repaired, and for less than {tiers:5/7/10} seconds respectively.
+- for: bloodWarden
+  text: Fixed an issue that caused {bloodWarden} to show Survivors' auras when outside of the exit gate, and before the requirements were met.
+- for: calmSpirit
+  text: Fixed an issue that caused {calmSpirit} to continue to alert crows. Do note this is still applicable for the crow bomb in the Backwater Swamp maps.
+- for: decisiveStrike
+  text: Fixed an issue that caused interaction progress to regress when being interrupted from the action and failing the {decisiveStrike} skill check.
+
+- Fixed an issue that allowed players to switch characters and create a lobby simultaneously.
+- Fixed an issue that caused Events customization tooltips to be cut-off if the item is in the centre of the row of the characters catalogue page in the store.
+- Fixed an issue that caused a placeholder Med-Kit item to temporarily appears in the 2nd item slot when picking up a survivor as the killer.
+- Fixed an issue that caused certain Killer cosmetic category tooltips to be incorrect in the catalogue section of the Store.
+- Fixed an issue that caused certain Killer cosmetic icons to appear in the wrong order in the catalogue section of the Store.
+- Fixed an issue that caused the Killer Load-out to become visible on the tally screen if a Survivor pulled their Ethernet cable on the tally screen after dying/escaping.
+- Misc UI improvements.

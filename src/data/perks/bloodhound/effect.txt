@@ -1,0 +1,3 @@
+{flavor:Like a hunting scent hound, you smell traces of blood at a great distance.}
+
+Fresh Blood Stains are considerably more discernible than normal and can be tracked for {tiers:2/3/4} seconds longer than normal.

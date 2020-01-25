@@ -1,0 +1,3 @@
+{flavor:You have a rudimentary understanding of the Entity's voice.}
+
+Sporadically hear the Entity's Whisper when standing within a {tiers:48/40/32} meters of a Survivor.

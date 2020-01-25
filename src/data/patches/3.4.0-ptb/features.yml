@@ -1,0 +1,8 @@
+- "Disconnection Penalties: Players who disconnect early from games will receive temporary matchmaking bans, with the duration escalating for repeat offenders."
+- Re-integrated the chat in the Survivor pre-lobby and in Custom Game lobbies.
+- for: oni
+  text: Added a new Killer ({oni}).
+- for: yui
+  text: Added a new Survivor ({yui}).
+- Added a new map to the Yamaoka Estate theme (Sanctum of Wrath).
+- Added a Japanese thematic lobby for the Cursed Legacy chapter.

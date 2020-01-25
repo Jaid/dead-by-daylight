@@ -1,0 +1,3 @@
+{flavor:You transform plants found around The campfire into tinctures that slow down bleeding.}
+
+Healing speed and healing item efficiency is increased by {tiers:11%/22%/33%}.

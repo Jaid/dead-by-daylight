@@ -1,0 +1,4 @@
+{flavor:Your presence alone instils great fear.}
+
+Survivors within your Terror Radius suffer from inefficiency.
+Affected Survivors' item consumption rates are increased by {tiers:80%/90%/100%}.

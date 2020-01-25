@@ -1,0 +1,3 @@
+{flavor:You are resilient to pain.}
+
+You reduce the duration of Pallet Stuns by {tiers:40%/45%/50%}.

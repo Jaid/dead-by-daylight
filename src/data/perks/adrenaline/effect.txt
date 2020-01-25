@@ -1,0 +1,7 @@
+{flavor:You are fuelled by unexpected energy when on the verge of escape.}
+
+Instantly heal one health state and sprint at 150% of your normal running speed for 5 seconds when the Exit Gates are powered. {this} is on hold if you are disabled at the moment it should take effect and will activate when freed.
+{this} will wake you up if you are asleep when it triggers.
+{this} ignores the Exhausted status effect.
+Causes the Exhausted status effect for {tiers:60/50/40} seconds.
+You do not recover from Exhaustion while running.

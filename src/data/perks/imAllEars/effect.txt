@@ -1,0 +1,4 @@
+{flavor: Your keen senses are sharpened in the dark Realm of The Entity. Unlocks potential in one's aura reading ability.}
+
+Any Survivor performing a rushed action within 48 meters from your location will have their aura revealed for 6 seconds.
+{this} can only be triggered once every {tiers:60/50/40} seconds.

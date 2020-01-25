@@ -1,0 +1,6 @@
+- for: hag
+  text: Fixed an issue that caused {hag} to lose collision with Survivors after carrying them on her shoulder
+- for: tinkerer
+  text: Fixed an issue that caused the Killers terror radius to disappear indefinitely when {tinkerer} at Tier II was activated
+- Fixed an issue that could cause framerate hitches in the lobby and during matches after opening the Store
+- "PC: Fixed an issue that could make it impossible for a Survivor to sprint"

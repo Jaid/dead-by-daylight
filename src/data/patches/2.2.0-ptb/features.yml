@@ -1,0 +1,8 @@
+- Added a new option for player reporting in the Tally (Exploit).
+- Added a direct link to the Customer Support Help Desk in the Help & Tutorial page, as well as on the tally screen. Help Desk can be used to open a ticket with the Customer Support team. This is the place to go if you want to report an issue you have encountered in-game.
+- for: deliverance
+  text: "Added a new score event: Safe Hook Rescue. The scoring event triggers after a Survivor has been unhooked and not downed for 10 seconds. The Survivor that performed the hook rescue gains the points. This score event helps clarify if / when a safe hook rescue has occurred (for the purposes of Emblem: Benevolent, and new perk, {deliverance})."
+- for: deliverance
+  text: "Added a new status effect for Survivors: Broken. Survivors afflicted with the Broken status effect may not be healed past the injured health state for the duration (similar to the {noMither} effect). This status is shown to other players on the character portraits in the HUD. The Broken status effect is applied to Survivors when they successfully use {deliverance} to unhook themselves."
+- Added new menu and lobby music
+- Integrated updated Portuguese translations PC only

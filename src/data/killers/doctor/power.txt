@@ -1,0 +1,16 @@
+Successfully striking Survivors with {doctor}'s special abilities, Shock Therapy or Static Blast, increases the Survivor's Madness, eventually afflicting them with the Madness status effect and triggering increasingly potent effects.
+
+Madness I:
+Causes Survivors to scream once, revealing their position to {doctor}. Slightly affects Skill Check placement.
+
+Madness II:
+Causes Survivors to scream once and experience hallucinations in the form of an illusionary Doctor. Moderately affects Skill Check placement.
+
+Madness III:
+Causes Survivors to scream intermittently and experience hallucinations in the form of an illusionary Doctor. Tremendously affects Skill Check placement. The Survivor may not perform any healing, repairing, sabotaging, searching, or cleansing interactions until they successfully Snap Out Of It. When a Survivor completes the Snap Out Of It action, they return to Madness I.
+
+Special Ability: Shock Therapy
+Press and hold the Power button to perform Shock Therapy, unleashing a ranged shock attack on the ground in front of you. Survivors struck by Shock Therapy gain increased Madness and any interactions they are performing are immediately interrupted. Shock Therapy immediately negates the Oblivious status effect.
+
+Special Ability: Static Blast
+Press and hold the Active Ability button to perform a Static Blast, causing all Survivors within {doctor}'s Terror Radius to scream. Survivors struck by Static Blast gain increased Madness and any interactions they are performing are immediately interrupted. Static Blast can only be activated when not on cooldown. Static Blast immediately negates the Oblivious status effect.

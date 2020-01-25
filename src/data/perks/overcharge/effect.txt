@@ -1,0 +1,6 @@
+{flavor:You are fuelled by your hate for progress.}
+
+Overcharge a Generator by performing the Damage Generator action.
+The next Survivor interacting with that generator is faced with a tremendously difficult Skill Check.
+Failing the Skill Check results in an additional {tiers:3%/4%/5%} generator regression.
+Succeeding the Skill Check grants no progress but prevents the Generator explosion.

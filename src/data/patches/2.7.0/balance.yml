@@ -1,0 +1,18 @@
+- Reworked the character collision in the basement stairs to prevent hostage situations.
+
+- Changed the opening exit gate time for Survivors from 15 seconds back to 20 seconds.
+- Decreased the End Game Collapse timer duration from 3 minutes to 2 minutes.
+- Decreased the intensity of the End Game Collapse ground VFX for Killers This change should make it easier for Killers to track Survivors' scratch marks and pools of blood.
+- Reduced certain values that made the tiling more noticeable when the End Game Collapse was active in The Game map.
+
+- for: legion
+  text: Removed bug fix for {legion} being unable to search lockers while in Feral Frenzy.
+- for: legion
+  text: Adjusted the values for {legion}'s fatigue-reducing add-ons
+  points:
+    - "Julie's Mix Tape: was -0.25s, now -0.2s."
+    - "Joey's Mix Tape: was -0.5s, now -0.4s."
+    - "Cold Dirt: was -1.0s, now -0.6s."
+
+- for: pig
+  text: Reverted the change to the reverse bear trap progression pausing while in {pig}'s terror radius. The RBT timer will pause when the Survivor is in a chase, as it was previously.

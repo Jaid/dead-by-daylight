@@ -1,0 +1,1 @@
+Fixed an issue causing event vial progress to get reset for the killers when completing a survivor objective or vice-versa. This issue was originally introduced with the merging of event objectives.

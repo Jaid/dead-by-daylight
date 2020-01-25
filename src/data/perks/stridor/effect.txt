@@ -1,0 +1,3 @@
+{flavor:You are acutely sensitive to the breathing of your prey.}
+
+Breathing of Survivors in pain is {tiers:25%/50%/50%} louder and regular breathing is {tiers:0%/0%/25%} louder.

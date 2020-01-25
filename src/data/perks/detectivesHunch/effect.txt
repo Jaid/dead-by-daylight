@@ -1,0 +1,4 @@
+{flavor:Unlocks potential in one's aura reading ability.}
+
+When a Generator is completed, the auras of generators, chests and totems within {tiers:32/48/64} meters are revealed to you for 10 seconds.
+If you are holding a map that can track objectives, generators revealed by Detective's Hunch are added to the Map.

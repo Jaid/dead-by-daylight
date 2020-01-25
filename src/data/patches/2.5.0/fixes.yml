@@ -1,0 +1,31 @@
+- for: hag, legion, nightmare, pig
+  text: Adjusted the camera position for {hag}, {legion} (specifically Julie and Susie), {nightmare} and {pig}.
+- for: shape
+  text: Fixed an issue that allowed {shape} to gain Evil Within progress through objects.
+- for: proveThyself
+  text: Fixed an issue that caused {proveThyself} to grant an additional 10% repair speed bonus. Because the {proveThyself} owner was counted as well.
+- for: proveThyself
+  text: Fixed an issue that caused {proveThyself} to show as active in the HUD when within range of a dead or disconnected Survivor.
+- for: bloodWarden
+  text: Fixed an issue that caused Survivor auras not to be visible within the exit gates when using {bloodWarden}.
+- for: proveThyself
+  text: Fixed an issue that caused a Survivor repairing a generator with {proveThyself} not to get the bonus repair speed when within range of another Survivor with {proveThyself}.
+- for: cannibal
+  text: Fixed an issue that caused {cannibal}'s chainsaw animation to reset before it actually finished.
+- Fixed an issue that caused the Exhaustion Status Effect not to be removed when hooked.
+- for: cannibal
+  text: Fixed an issue that caused the Mangled Status Effect from the Begrimed Chains and Rusted Chain add-ons to be permanent.
+- for: nightmare
+  text: Fixed an issue that caused {nightmare}'s movement speed to drop considerably when using his power.
+- for: spiesFromTheShadows
+  text: Fixed an issue that caused the crow bombs in the Backwater Swamp maps not to have the correct notification icon when using {spiesFromTheShadows}.
+- Fixed an issue that caused the host to see the blood spurt VFX (when not the Nightmare) when a Survivor failed a generator skill check.
+- for: legion
+  text: Fixed an issue that made it impossible for {legion} to Frenzy vault over any windows above ground level.
+- Fixed an issue that made it impossible to gain progress on the Blood Dance and The Saviour Daily Rituals.
+- Fixed an issue that made it impossible to open a specific chest in the Léry's Memorial Institute map.
+- for: proveThyself
+  text: Fixed how we calculate the {proveThyself} multiplier to be additive instead of multiplicative (the action speed bonus when using a Toolbox was much higher than we - intended it to be).
+- Fixed lobby music & Halloween stingers
+- Miscellaneous customization stretching and LOD bug fixes.
+- Various localization improvements and bug fixes.

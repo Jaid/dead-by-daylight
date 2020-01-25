@@ -1,0 +1,4 @@
+{flavor:You have developed an efficient way to get out of Trapper's Bear Traps and Hooks.}
+
+Grants up to 3 extra escape attempts on the hook.
+The odds of freeing yourself from {trapper}'s Bear Traps are increased by {tiers:15%/20%/25%}.

@@ -1,0 +1,17 @@
+- Rarely players can desync between each other in a match.
+- for: yui
+  text: "{yui} does not have her own voice over."
+- for: oni
+  text: "{oni}'s add-on Renjiro's Bloody Glove stays active while {oni} is in Demon Mode."
+- for: oni
+  text: Striking a hooked Survivor with {oni}'s Demon Strike causes the blood splatters to fill the entire screen.
+- Survivor will get stuck in place if they unhook themselves after a Survivor canceled or failed to unhook.
+- Invisible collisions blocking access to one of the closed house garage in the Lampkin Lane map.
+- Missing roof textures on the shrine asset in the Yamaoka Estate maps.
+- Incorrect shadows in multiple areas in the Yamaoka Estate maps.
+- Killers are visually stuck in their fall animation when falling from a height.
+- for: oni
+  text: "{oni} becomes visually stuck in the hitting animation if pallet stunned during Demon Strike."
+- Survivor models do not rotate when getting unhooked, which can lead to the hooked Survivor facing the wrong direction.
+- for: oni
+  text: Survivors move after getting mori killed by {oni}.
