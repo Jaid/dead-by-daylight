@@ -28,7 +28,7 @@ yarn add dead-by-daylight@^1.0.0
 ```javascript
 import deadByDaylight from "dead-by-daylight"
 
-result = deadByDaylight.perks.hauntedGround
+const result = deadByDaylight.perks.hauntedGround
 ```
 
 Variable `result` will now be:
