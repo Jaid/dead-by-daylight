@@ -3,16 +3,27 @@
   "version": "0.1.0",
   "author": "Jaid <jaid.jsx@gmail.com> (https://github.com/Jaid)",
   "dependencies": {
-    "@babel/runtime": "^7.8.3"
+    "@babel/runtime": "^7.8.3",
+    "map-obj": "^4.1.0",
+    "prevent-end": "^1.0.6",
+    "sentence-case": "^3.0.3",
+    "sort-object-entries": "^1.0.0",
+    "title-case": "^3.0.2"
   },
   "devDependencies": {
+    "@absolunet/fsp": "^1.6.2",
     "acorn": "^7.1.0",
+    "array-to-object-keys": "^1.3.5",
     "babel-jest": "^25.1.0",
     "babel-preset-jaid": "^7.3.2",
     "browserslist-config-jaid-universal": "^2.1.0",
     "eslint": "^6.8.0",
     "eslint-config-jaid": "^1.43.0",
+    "filter-nil": "^1.0.1",
+    "globby": "^11.0.0",
     "jest": "^25.1.0",
+    "moment": "^2.24.0",
+    "read-file-yaml": "^1.0.1",
     "rimraf": "^3.0.0",
     "webpack-config-jaid": "^11.2.0"
   },

@@ -1,4 +1,0 @@
-- for: huntress
-  text: Removed {huntress}' hatchet hitbox changes introduced with update 2.2.0. It should now function as it did prior to that update.
-- for: spirit
-  text: Reduced the default recharge time of {spirit}'s power from 20 seconds to 15 seconds

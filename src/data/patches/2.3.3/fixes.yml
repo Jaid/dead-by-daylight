@@ -1,8 +1,0 @@
-- Fixed an issue that caused the Mangled status effect to have an incorrect healing speed penalty.
-- for: clown
-  text: Fixed an issue that caused {clown}'s gas bottles not to have an effect on Survivors' vault speed.
-- Fixed an issue that caused event items to be erroneously removed from Kill Your Friends.
-- for: spirit
-  text: Fixed an issue that caused {spirit}'s husk to play a running animation after the power would end.
-- Fixed an issue that caused the Hallowed Blight's event Vial to be displayed in the HUD after the event's completion.
-- Minor localization and translation improvements.

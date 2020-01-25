@@ -1,4 +1,0 @@
-- for: plague
-  text: Fixed an issue that caused the Cleansing audio to play multiple times when a Survivor cleansed from a fountain.
-- Fixed an issue that made it impossible to Ready/Unready in the lobby when another client left after the 15 second timer.
-- Fixed an issue that caused a temporary broken pre-lobby screen when backing out of the Twitch Challenges menu before it had finished loading.

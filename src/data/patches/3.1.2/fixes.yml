@@ -1,9 +1,0 @@
-- Fixed an issue that caused a crash when changing the graphic quality settings during a match in the Red Forest maps.
-- for: nightmare
-  text: Fixed an issue that caused a discrepancy in Dream World lighting between Survivors and {nightmare}.
-- Fixed an issue that could cause a crash if the game failed to load the in-game Store catalog.
-- Fixed an issue that could cause a crash when switching roles in a Kill Your Friends lobby after the Match Management settings had been changed.
-- for: deadHard
-  text: Fixed an issue that sometimes caused {deadHard} not to give the speed boost.
-- for: sprintBurst
-  text: Fixed an issue that sometimes caused {sprintBurst} not to trigger when the conditions were met.

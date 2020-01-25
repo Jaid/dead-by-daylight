@@ -1,4 +1,0 @@
-- Added progress bar to emblem tooltips
-- for: vigil, decisiveStrike
-  text: Integrated additional Status Effect score notification for the {vigil} and {decisiveStrike} perks
-- "Integrated the Proficiency System to interaction progress bars from other players. For example, when a player is being healed by a different player, while a healing debuff perk is active (ie: {coulrophobia}), they will see the debuff applied in their HUD."

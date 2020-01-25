@@ -1,3 +1,0 @@
-- It is possible to get an "Accept Invitation Failure" if multiple users accepted an invite at the same time.
-- for: oni
-  text: "{oni}'s Kanabō does not appear during the mori animation."
