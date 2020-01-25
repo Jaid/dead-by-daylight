@@ -1,4 +1,0 @@
-{flavor:You do not make as much noise as others when quickly vaulting over obstacles or hiding in lockers.}
-
-The vault and hide actions' noise detection and audio range is reduced by 100%.
-This effect can only be triggered once every {tiers:30/25/20} seconds.

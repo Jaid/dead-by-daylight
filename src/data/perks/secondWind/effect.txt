@@ -1,5 +1,0 @@
-When you have healed other Survivors for the equivalent of one health state, {this} activates. If you are already afflicted by the Broken status effect, {this} does not activate.
-
-While {this} is activated, the next time you are unhooked or you unhook yourself, you are affected by the Broken status effect. After a total duration of {tiers:34/32/30} seconds, {this} automatically heals you from injured to healthy.
-
-{this} deactivates once you become healthy or if you are put into the dying state before {this} successfully triggers. You lose the Broken status effect.

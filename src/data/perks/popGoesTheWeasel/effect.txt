@@ -1,4 +1,0 @@
-{flavor:A deep bond with The Entity unlocks great strength.}
-
-After hooking a Survivor, the next generator you break is instantly regressed by 25% of its total progression. Normal Generator regression applies after the damage is done.
-{this} is active for {tiers:40/50/60} seconds after the Survivor is hooked.

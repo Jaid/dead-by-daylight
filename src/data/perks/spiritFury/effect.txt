@@ -1,3 +1,0 @@
-{flavor:Each pallet you break magnifies the wrath of The Entity.}
-
-After breaking {tiers:4/3/2} Pallets, the next time you are stunned by a pallet, The Entity will instantly break the pallet. You still suffer from the stun effect penalty.

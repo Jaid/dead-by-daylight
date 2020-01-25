@@ -1,3 +1,0 @@
-{flavor:The growing odds of a successful escape fill you with hope and give you wings.}
-
-As soon as the Exit Gates are powered, you gain a {tiers:5%/6%/7%} Haste status effect for 120 seconds.

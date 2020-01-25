@@ -1,3 +1,0 @@
-{flavor:You are motivated in dire situations.}
-
-Grants {tiers:3%/6%/9%} additional speed when repairing, sabotaging, healing, unhooking, vaulting, cleansing, opening Exit Gates and searching while injured.

@@ -1,5 +1,0 @@
-You become obsessed with one Survivor.
-Every time you chase your Obsession and let them escape, you receive a Token up to a maximum of 3 Tokens.
-Each Token increases your movement speed by {tiers:3%/4%/5%}.
-Each offensive action spends one Token.
-The Killer can only be obsessed with one Survivor at a time.

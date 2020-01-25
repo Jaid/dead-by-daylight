@@ -1,3 +1,0 @@
-{flavor:An unnatural tingle warns you of impending doom.}
-
-Get notified when the Killer is looking directly in your direction and standing in a 36 meter range. When {this} is active, Skill Check trigger odds are increased by 10% with success zones reduced by 10%. While {this} is active, your repair, heal and sabotage speeds are increased by {tiers:2%/4%/6%}.

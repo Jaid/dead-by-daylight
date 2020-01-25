@@ -1,4 +1,0 @@
-You become obsessed with one Survivor. You lurk in the shadows, eliminating your victims one by one. When your Obsession is hooked, the perk receives a Token, up to a maximum of {tiers:2/3/4} Tokens.
-Each Token decreases your Terror Radius by 4 meters while in a chase.
-When a Survivor rescues the Obsession from a Hook, the rescuer becomes the Obsession. You lose all Tokens if the Obsession is sacrificed or killed.
-The Killer can only be obsessed with one Survivor at a time.

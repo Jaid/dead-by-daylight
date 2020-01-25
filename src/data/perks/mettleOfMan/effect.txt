@@ -1,7 +1,0 @@
-{flavor:Evil has a way of always finding you.}
-
-After you earn 3 Protection Hit scoring events, the perk activates.
-Once activated, the next occasion that would put you into the dying state from the injured state is ignored.
-The next time you heal back to full health, your aura will be revealed to the killer when you are further than {tiers:12/14/16} meters from the Killer.
-Increases your chances of being the Killer's obsession.
-The Killer can only be Obsessed with one survivor at a time.

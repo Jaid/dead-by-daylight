@@ -1,5 +1,0 @@
-{flavor:When you have a goal in mind, there's no turning back; better to ask forgiveness than permission.}
-
-You can see your own scratch marks at all times.
-
-While uninjured, you walk {tiers:10%/15%/20%} faster.

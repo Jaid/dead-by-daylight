@@ -1,5 +1,0 @@
-{flavor:The display of your Powers creates a whirlwind of panic that spreads throughout the land.}
-
-You become obsessed with one Survivor. Hitting the Obsession with your basic attack causes the Obsession to emit a 32 meter Terror Radius for {tiers:20/25/30} seconds. You are granted Undetectable Status Effect for the duration.
-The Obsession hears the Terror Radius they emit for the duration.
-The Killer can only be obsessed with one Survivor at a time.

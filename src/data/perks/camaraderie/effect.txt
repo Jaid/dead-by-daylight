@@ -1,5 +1,0 @@
-{flavor:Life has taught you the importance of friendship which has given you strength.}
-
-While you are on the hook in the struggle phase, {this} activates.
-
-If another Survivor is within 16 meters from you while {this} is activated, the hook timer is paused for {tiers:26/30/34} seconds.

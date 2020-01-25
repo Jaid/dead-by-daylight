@@ -1,7 +1,0 @@
-{flavor:A Hex rooting its power on hope. The false hope of Survivors fills you with excitement and strengthens your totems.}
-
-For each dull totem and Hex Totem remaining on the Map gain a Token.
-Gain 10% more Bloodpoints for actions in the Hunter Category for each Token.
-Survivors' cleansing speed is reduced by {tiers:4%/5%/6%} for each Token.
-Gain a notification when someone starts working on a Hex Totem.
-The Hex effects persist as long as the related Hex Totem is standing.

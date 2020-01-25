@@ -1,5 +1,0 @@
-{flavor:Your ties to the otherworldly manifest when your prey attempts to get away.}
-
-Every time a generator is completed, all windows and vault locations within a 24 meter radius from the completed generator are blocked for Survivors for the next {tiers:20/25/30} seconds.
-
-You see the aura of the vault locations blocked by {this} for the next 20 seconds.

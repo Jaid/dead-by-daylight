@@ -1,4 +1,0 @@
-{flavor:Unlocks potential in one's Aura-reading ability.}
-
-Survivors' auras are revealed to you for 3 seconds when they enter the basement and you are more than 32 meters away from the basement entrance.
-{this} can only be triggered once every {tiers:30/25/20} seconds.

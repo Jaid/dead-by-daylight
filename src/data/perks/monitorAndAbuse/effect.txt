@@ -1,5 +1,0 @@
-{flavor:Meticulous in your approach, terrifying in your application.}
-
-While in a chase, your Terror Radius is increased by 8 meters.
-Otherwise, your Terror Radius is decreased by 8 meters and your field of view is increased by {tiers:3/5/10} degrees.
-Field of view gains do not stack.

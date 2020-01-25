@@ -1,3 +1,0 @@
-{flavor:Your running is light and soft, making your tracks harder to follow.}
-
-Scratch marks stay visible {tiers:1 second/2 seconds/3 seconds} less than normal.

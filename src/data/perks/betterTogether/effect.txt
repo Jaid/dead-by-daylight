@@ -1,5 +1,0 @@
-{flavor:You seek justice and uncover the truth no matter what obstacle stands in your way.}
-
-The aura of the Generator you are currently repairing is revealed to all other Survivors located within 32 meters.
-
-If the Killer downs a Survivor while you are repairing a generator, you see the aura of all other Survivors for {tiers:8/9/10} seconds.

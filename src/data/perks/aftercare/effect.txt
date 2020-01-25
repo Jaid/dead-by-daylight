@@ -1,7 +1,0 @@
-{flavor:Unlocks potential in one's aura reading ability.}
-
-You see the aura of every survivor that:
-- You rescued from a hook or who rescued you from one.
-- You completed a healing action on or who completed one on you.
-They also see your Aura.
-This occurs for up to {tiers:1 Survivor/2 Survivors/3 Survivors}. All effects of this Perk are reset when you are hooked by the Killer.

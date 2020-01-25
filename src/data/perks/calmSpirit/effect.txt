@@ -1,4 +1,0 @@
-{flavor:Animals seem to trust you as they often stay calm in your presence.}
-
-Reduces chances of alerting woodland creatures by {tiers:80%/90%/100%}.
-{this} allows you to overcome the urge to scream.

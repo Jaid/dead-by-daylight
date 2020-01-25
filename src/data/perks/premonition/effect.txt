@@ -1,4 +1,0 @@
-{flavor:You have the undeniable capability to sense danger.}
-
-Get an auditory warning when looking in the direction of the Killer in a 45 degree cone within a range of 36 meters.
-{this} has a cooldown of {tiers:60/45/30} seconds each time it activates. {this} trumps any of the Killer's stealth abilities.

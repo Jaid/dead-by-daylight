@@ -1,4 +1,0 @@
-{flavor:The crows found in the world can communicate directly with you.}
-
-Cawing Crows give you a visual cue when you are within a {tiers:20/28/36} meter range.
-{this} has a cooldown of 5 seconds.

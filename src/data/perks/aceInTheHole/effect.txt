@@ -1,4 +1,0 @@
-{flavor:Lady Luck always seems to be throwing something good your way.}
-
-When retrieving an Item from a Chest, there is a 100% chance that an Add-on of Very Rare Rarity or lower will be attached to it.
-{tiers:10%/25%/50%} chance to find a second Add-on of Uncommon Rarity or lower.

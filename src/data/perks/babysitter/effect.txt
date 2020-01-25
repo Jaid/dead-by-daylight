@@ -1,5 +1,0 @@
-{flavor:While you have a reputation for being self-centered, you risk it all to help those in need.}
-
-When you unhook a Survivor, the unhooked Survivor leaves no scratch marks or blood trail for the next {tiers:4/6/8} seconds.
-
-You see The Killer's aura and The Killer sees your aura for 4 seconds.

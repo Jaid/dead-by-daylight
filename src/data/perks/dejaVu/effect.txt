@@ -1,4 +1,0 @@
-{flavor: Unlocks potential in one's aura reading ability. Paranoia paired with your horror of failure helps prepare you from repeating the same mistakes.}
-
-The auras of 3 generators in close proximity to one another are revealed to you for {tiers:30/45/60} seconds, at the start of the match and each time a Generator is completed.
-If you are holding a Map that can track Objectives, Generators revealed by {this} are added to the Map.

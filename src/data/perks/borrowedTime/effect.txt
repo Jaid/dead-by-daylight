@@ -1,4 +1,0 @@
-{flavor:You are fueled with an unexpected energy when saving an ally from a hook within the Killer's Terror Radius.}
-
-After unhooking a Survivor within the Killer's Terror Radius, for 15 seconds, any damage taken that would put the unhooked Survivor into the dying state will instead apply the Deep Wound status effect. The Survivor has {tiers:10/15/20} seconds to Mend themselves.
-If the unhooked Survivor takes any damage while affected by Deep Wound, or if the Deep Wound timer ends, the unhooked Survivor is immediately put into the dying state.

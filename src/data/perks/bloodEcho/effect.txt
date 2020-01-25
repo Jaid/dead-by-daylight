@@ -1,3 +1,0 @@
-When hooking a Survivor, all other injured Survivors suffer from the Haemorrhage Status Effect until healed and the Exhausted Status Effect for 45 seconds.
-
-{this} can only be triggered once every {tiers:80/70/60} seconds.

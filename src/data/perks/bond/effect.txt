@@ -1,3 +1,0 @@
-{flavor:Unlocks potential in one's aura reading ability.}
-
-Allies' Auras are revealed to you when they are within a {tiers:20/28/36} meter range.

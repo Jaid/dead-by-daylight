@@ -1,4 +1,0 @@
-{flavor:Your presence alone instils great fear.}
-
-Survivors within your Terror Radius have a 10% greater chance of triggering Skill Checks when repairing, healing or sabotaging.
-Triggered Skill Checks' success zones are reduced by {tiers:40/50/60%}.

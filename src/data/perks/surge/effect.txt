@@ -1,5 +1,0 @@
-{flavor:Your eerie presence charges the air and interferes with technology.}
-
-Putting a Survivor into the dying state with a basic attack causes all generators within a 24 meter radius to instantly explode and regress. This applies an additional regression of 12%.
-
-{this} can only be triggered once every {tiers:60/50/40} seconds.

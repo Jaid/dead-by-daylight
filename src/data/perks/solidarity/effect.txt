@@ -1,3 +1,0 @@
-{flavor:Sharing painful experiences has the power to heal.}
-
-While injured, healing a Survivor without using a Med-Kit also heals you at a {tiers:40%/45%/50%} conversion rate.

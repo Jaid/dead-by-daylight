@@ -1,3 +1,0 @@
-Press and hold the Active Ability button for 4 seconds while standing beside a dropped pallet to reset it to its upright position.
-
-{this} has a cooldown of {tiers:140/130/120} seconds.

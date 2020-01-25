@@ -1,7 +1,0 @@
-{flavor:It is inconceivable to leave someone behind.}
-
-Once at least one exit gate is opened, you gain the follwing effects:
-
-{tiers:50%/75%/100%} additional Bloodpoints for healing and unhooking other Survivors.
-{tiers:30%/40%/50%} bonus action speed when healing and unhooking other Survivors.
-The auras of all other Survivors are revealed to you.

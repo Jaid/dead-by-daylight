@@ -1,1 +1,0 @@
-You recuperate faster from missed attacks made with your main weapon. The cooldown of missed attacks is reduced by {tiers:20%/25%/30%}.

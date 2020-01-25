@@ -1,6 +1,0 @@
-{flavor:Your fervent care of the hooks found in the basement has aroused the Entity's interest.}
-
-The basement Hooks are granted the following bonuses:
-{tiers:3%/6%/9%} faster Entity progress.
-{tiers:5%/10%/15%} increased difficulty on escape attempts.
-{tiers:3%/6%/9%} increased penalty to escape fails.

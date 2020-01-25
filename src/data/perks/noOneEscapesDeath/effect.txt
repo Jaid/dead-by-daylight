@@ -1,4 +1,0 @@
-A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping.
-Once the Exit Gates are powered, if there is a dull totem remaining on the Map, this Hex is applied to it.
-While this Hex is active, Survivors suffer from the Exposed status effect and your movement speed is increased by {tiers:2%/3%/4%}.
-The Hex effects persist as long as the related Hex Totem is standing.

@@ -1,2 +1,0 @@
-You open lockers {tiers:30%/40%/50%} faster.
-Survivors who exit Lockers suffer from the Exposed Status Effect for 15 seconds and their location is revealed for 4 seconds.

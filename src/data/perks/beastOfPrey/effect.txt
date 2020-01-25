@@ -1,4 +1,0 @@
-{flavor:Your lust for a kill is so intense that your connection with the Entity is momentarily lost, making you totally unpredictable.}
-
-The red stain disappears after gaining Bloodlust Tier 1, and stays hidden until you lose Bloodlust.
-Gain {tiers:30%/40%/50%} more Bloodpoints for actions in the Hunter Category.

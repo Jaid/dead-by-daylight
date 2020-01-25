@@ -1,3 +1,0 @@
-{flavor:Unlocks potential in one's aura reading abilities.}
-
-Each time a Generator is completed, the Killer's aura is revealed to you for 5 seconds. When the last Generator is powered, the Killer's aura is revealed to you for {tiers:5/7/10} seconds.

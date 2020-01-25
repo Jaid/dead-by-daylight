@@ -1,4 +1,0 @@
-After performing a rushed vault, break into a sprint at 150% of your normal running speed for a maximum of 3 seconds.
-Causes the Exhausted status effect for {tiers:60/50/40} seconds.
-Lithe cannot be used while Exhausted.
-You do not recover from the Exhausted status effect while running.

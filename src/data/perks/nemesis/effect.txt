@@ -1,1 +1,0 @@
-A survivor who blinds or stuns you using a Pallet or a Locker becomes your Obsession. Anytime a new Survivor becomes the Obsession, they are affected by the Oblivious Status Effect for {tiers:40/50/60} seconds and their aura is shown to you for 4 seconds.

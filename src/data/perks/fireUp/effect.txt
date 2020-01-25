@@ -1,4 +1,0 @@
-{flavor:The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation.}
-
-Each time the Survivors complete repairs on a generator, {this} grows in power.
-For each generator completed, gain a {tiers:3%/3.5%/4%} stackable buff that grants a speed bonus to picking up, dropping, pallet breaking, generator damaging and vaulting for the remainder of the Trial.

@@ -1,3 +1,0 @@
-{flavor:Unlocks potential in one's aura reading ability.}
-
-If you are the last Survivor remaining the Trial, you can see the aura of the Hatch within a {tiers:24/28/32} meter range.

@@ -1,5 +1,0 @@
-{flavor:A deep bond with The Entity unlocks potential in one's Aura-reading ability.}
-
-After hooking a Survivor, all other Survivors' auras are revealed to you for 4 seconds when they are farther than 40 meters from the Hook.
-Each time a Survivor is hooked for the first time, gain a 25% stackable bonus to all bloodpoint gains up to a maximum of {tiers:50%/75%/100%}.
-The bonus Bloodpoints are only awarded post-trial.

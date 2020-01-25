@@ -1,3 +1,0 @@
-{flavor:You perform at your best when you are under extreme stress.}
-
-Great Skill Check success zones when repairing, healing and sabotaging get {tiers:10%/20%/30%} bigger when you are injured.

@@ -1,7 +1,0 @@
-{flavor:You look inwards and trust your instincts when you feel lost and alone.}
-
-Each time you complete a totem cleanse action, {this} activates. If you are already afflicted by the Broken status effect, {this} does not activate.
-
-While {this} is active, hiding inside a locked for {tiers:10/9/8} seconds while injured automatically heals you from injured to healthy.
-
-{this} becomes deactivated as soon as it has successfully triggered.

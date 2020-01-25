@@ -1,3 +1,0 @@
-When starting to run, break into a sprint at 150% your normal running speed for a maximum of 3 seconds. Causes the Exhausted status effect for {tiers:60/50/40} seconds.
-Sprint Burst cannot be used while Exhausted.
-You do not recover from Exhaustion while running.

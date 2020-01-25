@@ -1,7 +1,0 @@
-{flavor:A Hex rooting its power in despair. Your hunt is an irresistible song of dread which muddles your prey's attention.}
-
-Survivors receive a {tiers:2%/4%/6%} regression penalty when missing any Skill Check.
-Each time a Survivor is hooked, Huntress Lullaby grows in power.
-1 to 4 Tokens: Time between the Skill Check warning sound and the Skill Check becomes shorter.
-5 Tokens: No Skill Check warning.
-The Hex effects persist as long as the related Hex Totem is standing.

@@ -1,5 +1,0 @@
-{flavor:Your powerful hold onto the Survivors causes escapes to be nearly impossible.}
-
-Effects of Survivor struggling are reduced by 75%.
-
-Time to struggle out of your grasp is increased by {tiers:4%/8%/12%}.

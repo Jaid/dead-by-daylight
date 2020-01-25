@@ -1,4 +1,0 @@
-{flavor:You have the undeniable capability to sense danger.}
-
-Get an auditory warning when looking in the direction of Killer traps and totems in a 45 degree cone within a range of {tiers:8/10/12} meters.
-{this} has a cooldown of {tiers:15/12/10} seconds each time it activates.

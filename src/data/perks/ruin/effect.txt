@@ -1,3 +1,0 @@
-A Hex that affects all Survivors' generator repairs progress. All generators are affected by {this}. While a generator is not being repaired by a Survivor, it will immediately and automatically regress repair progress at {tiers:100%/150%/200%} of the normal regression speed.
-
-The Hex effects persist as long as the related Hex Totem is standing.

@@ -1,3 +1,0 @@
-{flavor:Years of evading the cops taught you a thing or two about stealth.}
-
-Your movement speed while crouching is increased by {tiers:90%/95%/100%}.

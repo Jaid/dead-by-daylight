@@ -1,4 +1,0 @@
-You become obsessed with one Survivor. Each time a Generator is completed, your Obsession sees your aura for {tiers:5/4/3} seconds.
-Each time a Generator is completed, all Survivors' locations are revealed to you for 3 seconds.
-Once all generators are completed, the Obsession has the Exposed status effect and you can kill your Obsession.
-The Killer can only be obsessed with one Survivor at a time.

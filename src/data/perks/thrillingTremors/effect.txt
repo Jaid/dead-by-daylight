@@ -1,4 +1,0 @@
-{flavor:Your dark designs and shrewd composure rouse The Entity.}
-
-After picking up a Survivor, all Generators not being repaired by Survivors are blocked by The Entity and cannot be repaired for the next 16 seconds. Affected Generators are highlighted by a white aura.
-{this} can only be triggered once every {tiers:100/80/60} seconds.

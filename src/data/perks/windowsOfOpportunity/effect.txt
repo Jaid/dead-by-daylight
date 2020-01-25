@@ -1,4 +1,0 @@
-{flavor:Unlocks potential in one's aura reading ability.}
-
-Auras of pallets and vaults are revealed to you when within a 20 meter range.
-{this} has a cooldown of {tiers:30/25/20} seconds when vaulting or dropping a pallet during a Chase.

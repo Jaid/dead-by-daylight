@@ -1,4 +1,0 @@
-{flavor:Unlocks potential in one's aura reading ability.}
-
-The recovery progress of dying Survivors can be determined by the intensity of their auras at a distance of up to 48 meters.
-When you heal a Survivor from the dying State to injured, both the healed Survivor and yourself see the Killer's aura for a duration of {tiers:4/5/6} seconds.

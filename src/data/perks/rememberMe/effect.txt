@@ -1,3 +1,0 @@
-You become obsessed with one Survivor. Each time you hit your Obsession, you increase the opening time of the Exit Gates by 4 seconds up to a maximum of {tiers:8/12/16} additional seconds.
-The Obsession is not affected by {this}.
-The Killer can only be obsessed with one Survivor at a time.
