@@ -1,17 +1,21 @@
 const path = require("path")
 
-const arrayToObjectKeys = require("array-to-object-keys").parallel
 const readFileYaml = require("read-file-yaml").default
 const globby = require("globby")
 
 module.exports = async () => {
   const entriesFolder = __dirname
-  const ids = await globby("*", {
+  const ids = await globby("*/*", {
     cwd: entriesFolder,
     onlyDirectories: true,
   })
-  return arrayToObjectKeys(ids, async id => {
-    const infoFile = path.join(entriesFolder, id, "info.yml")
-    return readFileYaml(infoFile)
+  const jobs = ids.map(async folder => {
+    const [type, id] = folder.split("/")
+    const infoFile = path.join(entriesFolder, type, id, "info.yml")
+    const info = await readFileYaml(infoFile)
+    info.type = type
+    return [id, info]
   })
+  const entries = await Promise.all(jobs)
+  return Object.fromEntries(entries)
 }
