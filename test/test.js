@@ -8,8 +8,8 @@ const indexModule = (process.env.MAIN ? path.resolve(process.env.MAIN) : path.jo
 const {default: deadByDaylight} = indexModule
 
 it("should run", () => {
-  console.dir(deadByDaylight.perks)
   expect(deadByDaylight.killers.wraith.realName).toBe("Philip Ojomo")
   expect(deadByDaylight.patches["3.4.0"].title).toBe("Cursed Legacy")
   expect(deadByDaylight.perks.hauntedGround.for).toBe("killer")
+  expect(deadByDaylight.survivors.meg.title).toBe("Meg Thomas")
 })

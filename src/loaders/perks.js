@@ -26,10 +26,14 @@ function normalize(id, perk) {
     rarity: getRarity(perk.level),
     for: perk.for || getOwnerType(perk.owner),
     visible: perk.visible === undefined ? true : perk.visible,
-    released: perk.released === undefined ? true : perk.released,
   }
   if (!normalizedPerk.level && normalizedPerk.owner) {
     normalizedPerk.level = 30
+  }
+  if (normalizedPerk.visible) {
+    normalizedPerk.released = perk.released === undefined ? true : perk.released
+  } else {
+    normalizedPerk.released = false
   }
   return normalizedPerk
 }
