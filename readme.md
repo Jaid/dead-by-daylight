@@ -28,13 +28,23 @@ yarn add dead-by-daylight@^0.1.0
 ```javascript
 import deadByDaylight from "dead-by-daylight"
 
-result = deadByDaylight.killer.wraith.power
+result = deadByDaylight.perks.hauntedGround
 ```
 
 Variable `result` will now be:
 
 ```javascript
-"Wailing Bell"
+{
+  id: "hauntedGround",
+  title: "Hex: Haunted Ground",
+  ingameId: "hauntedGround",
+  owner: "spirit",
+  rarity: "veryRare",
+  for: "killer",
+  level: 30,
+  visible: true,
+  released: true,
+}
 ```
 
 
