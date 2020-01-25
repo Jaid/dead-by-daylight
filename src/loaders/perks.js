@@ -8,7 +8,7 @@ import killers from "./killers"
 
 function getRarity(level) {
   if (level > 30) {
-    return "veryrare"
+    return "veryRare"
   }
   return "rare"
 }

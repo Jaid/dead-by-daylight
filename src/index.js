@@ -1,5 +1,7 @@
 /** @module dead-by-daylight */
 
+import rarities from "lib/rarities"
+
 import items from "src/loaders/items"
 import killers from "src/loaders/killers"
 import patches from "src/loaders/patches"
@@ -12,4 +14,5 @@ export default {
   perks,
   survivors,
   items,
+  rarities,
 }
