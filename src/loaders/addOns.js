@@ -12,6 +12,7 @@ function normalize(id, addOn) {
     rarity: addOn.rarity || "common",
     for: addOn.for,
     forType: addOn.type,
+    ingameId: addOn.ingameId || id,
   }
   if (normalizedAddOn.visible) {
     normalizedAddOn.released = addOn.released === undefined ? true : addOn.released

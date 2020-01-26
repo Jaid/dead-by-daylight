@@ -26,6 +26,7 @@
     "moment": "^2.24.0",
     "read-file-yaml": "^1.0.1",
     "rimraf": "^3.0.0",
+    "upper-case-first": "^2.0.1",
     "webpack-config-jaid": "^11.2.0",
     "yargs": "^15.1.0"
   },
