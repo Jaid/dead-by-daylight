@@ -27,6 +27,8 @@ function normalize(id, perk) {
     for: perk.for || getOwnerType(perk.owner),
     visible: perk.visible === undefined ? true : perk.visible,
   }
+  const iconFolder = perk.iconFolder ? `${perk.iconFolder}/` : ""
+  normalizedPerk.iconPath = perk.iconPath || `UI/Icons/Perks/${iconFolder}iconPerks_${normalizedPerk.ingameId}.png`
   if (!normalizedPerk.level && normalizedPerk.owner) {
     normalizedPerk.level = 30
   }
