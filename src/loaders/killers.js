@@ -13,6 +13,7 @@ function normalize(id, killer) {
     title: killer.title || `The ${titleCase(killer.shortTitle || id)}`,
     visible: killer.visible === undefined ? true : killer.visible,
     powerIconId: killer.powerIconId || killer.powerId,
+    powerId: killer.powerId,
   }
   const powerIconFolder = killer.powerIconFolder ? `${killer.powerIconFolder}/` : ""
   normalizedKiller.powerIconPath = killer.powerIconPath || `UI/Icons/Powers/${powerIconFolder}iconPowers_${normalizedKiller.powerIconId}.png`
