@@ -30,7 +30,7 @@ function normalize(id, perk) {
   const iconFolder = perk.iconFolder ? `${perk.iconFolder}/` : ""
   normalizedPerk.iconPath = perk.iconPath || `UI/Icons/Perks/${iconFolder}iconPerks_${normalizedPerk.iconId}.png`
   if (!normalizedPerk.level && normalizedPerk.owner) {
-    normalizedPerk.level = 30
+    normalizedPerk.level = perk.level || 30
   }
   if (normalizedPerk.visible) {
     normalizedPerk.released = perk.released === undefined ? true : perk.released
