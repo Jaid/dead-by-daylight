@@ -1,3 +1,5 @@
 shortTitle: Ghost Face
 realName: Danny "Jed Olsen" Johnson
-power: Night Shroud
+powerId: nightShroud
+powerIconFolder: Oman
+powerIconId: ghostPower_available

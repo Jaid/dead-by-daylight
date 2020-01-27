@@ -7,12 +7,15 @@ import rawEntries from "src/data/killers?aot"
 function normalize(id, killer) {
   const normalizedKiller = {
     id,
-    power: killer.power,
+    powerTitle: killer.powerTitle || titleCase(killer.powerId),
     realName: killer.realName || null,
     shortTitle: killer.shortTitle || titleCase(id),
     title: killer.title || `The ${titleCase(killer.shortTitle || id)}`,
     visible: killer.visible === undefined ? true : killer.visible,
+    powerIconId: killer.powerIconId || killer.powerId,
   }
+  const powerIconFolder = killer.powerIconFolder ? `${killer.powerIconFolder}/` : ""
+  normalizedKiller.powerIconPath = killer.powerIconPath || `UI/Icons/Powers/${powerIconFolder}iconPowers_${normalizedKiller.powerIconId}.png`
   if (normalizedKiller.visible) {
     normalizedKiller.released = killer.released === undefined ? true : killer.released
   } else {

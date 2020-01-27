@@ -1,2 +1,4 @@
 realName: Michael Myers
-power: Evil Within
+powerId: evilWithin
+powerIconId: stalker1
+powerIconFolder: DLC2
