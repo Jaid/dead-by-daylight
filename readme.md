@@ -12,15 +12,21 @@
 
 
 ## Installation
+
 <a href="https://npmjs.com/package/dead-by-daylight"><img src="https://img.shields.io/badge/npm-dead--by--daylight-C23039?style=flat-square&logo=npm" alt="dead-by-daylight on npm"/></a>
+
 ```bash
 npm install --save dead-by-daylight@^1.0.0
 ```
+
 <a href="https://yarnpkg.com/package/dead-by-daylight"><img src="https://img.shields.io/badge/Yarn-dead--by--daylight-2F8CB7?style=flat-square&logo=yarn&logoColor=white" alt="dead-by-daylight on Yarn"/></a>
+
 ```bash
 yarn add dead-by-daylight@^1.0.0
 ```
-<a href="https://github.com/jaid/dead-by-daylight/packages"><img src="https://img.shields.io/badge/GitHub Packages-@jaid/dead--by--daylight-24282e?style=flat-square&logo=github" alt="@jaid/dead-by-daylight on GitHub Packages"/></a> (if [configured properly](https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages))
+
+<a href="https://github.com/jaid/dead-by-daylight/packages"><img src="https://img.shields.io/badge/GitHub Packages-@jaid/dead--by--daylight-24282e?style=flat-square&logo=github" alt="@jaid/dead-by-daylight on GitHub Packages"/></a> <span style="vertical-align: top">(if <a style="vertical-align: top" href='https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages'>configured properly</a>)</span>
+
 ```bash
 npm install --save @jaid/dead-by-daylight@^1.0.0
 ```
@@ -46,6 +52,7 @@ Variable `result` will now be:
   rarity: "veryRare",
   for: "killer",
   level: 30,
+  iconPath: "UI/Icons/Perks/Haiti/iconPerks_hauntedGround.png",
   visible: true,
   released: true,
 }
