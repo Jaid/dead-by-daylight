@@ -1,6 +1,6 @@
 {
   "webpackConfigJaid": "universalLib",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "author": "Jaid <jaid.jsx@gmail.com> (https://github.com/Jaid)",
   "dependencies": {
     "@babel/runtime": "^7.8.3",
