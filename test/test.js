@@ -13,6 +13,7 @@ async function checkPaths() {
   const pathsToCheck = [
     ...Object.values(deadByDaylight.perks).map(perk => perk.iconPath),
     ...Object.values(deadByDaylight.items).map(item => item.iconPath),
+    ...Object.values(deadByDaylight.addOns).filter(addOn => addOn.for === "oni").map(addOn => addOn.iconPath),
   ]
   const missingPaths = []
   const jobs = pathsToCheck.map(async pathToCheck => {

@@ -11,7 +11,7 @@ function normalize(id, item) {
     title: item.title || titleCase(id),
     visible: item.visible === undefined ? true : item.visible,
     rarity: item.rarity || "common",
-    ingameId: item.ingameId || id,
+    iconId: item.iconId || id,
   }
   if (normalizedItem.visible) {
     normalizedItem.released = item.released === undefined ? true : item.released
@@ -19,7 +19,7 @@ function normalize(id, item) {
     normalizedItem.released = false
   }
   const iconFolder = item.iconFolder ? `${item.iconFolder}/` : ""
-  normalizedItem.iconPath = item.iconPath || `UI/Icons/Items/${iconFolder}iconItems_${normalizedItem.ingameId}.png`
+  normalizedItem.iconPath = item.iconPath || `UI/Icons/Items/${iconFolder}iconItems_${normalizedItem.iconId}.png`
   return normalizedItem
 }
 

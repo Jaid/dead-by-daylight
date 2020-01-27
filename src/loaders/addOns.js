@@ -12,8 +12,10 @@ function normalize(id, addOn) {
     rarity: addOn.rarity || "common",
     for: addOn.for,
     forType: addOn.type,
-    ingameId: addOn.ingameId || id,
+    iconId: addOn.iconId || id,
   }
+  const iconFolder = addOn.iconFolder ? `${addOn.iconFolder}/` : ""
+  normalizedAddOn.iconPath = addOn.iconPath || `UI/Icons/ItemAddons/${iconFolder}iconAddon_${normalizedAddOn.iconId}.png`
   if (normalizedAddOn.visible) {
     normalizedAddOn.released = addOn.released === undefined ? true : addOn.released
   } else {

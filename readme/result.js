@@ -1,7 +1,7 @@
 {
   id: "hauntedGround",
   title: "Hex: Haunted Ground",
-  ingameId: "hauntedGround",
+  iconId: "hauntedGround",
   owner: "spirit",
   rarity: "veryRare",
   for: "killer",

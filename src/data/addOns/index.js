@@ -17,8 +17,8 @@ module.exports = async () => {
     const info = await readFileYaml(infoFile)
     info.type = type
     info.for = forItem
-    if (type === "power" && !info.ingameId) {
-      info.ingameId = id
+    if (type === "power" && !info.iconId) {
+      info.iconId = id
       info.id = `${forItem}${upperCaseFirst(id)}`
       returnId = info.id
     }
