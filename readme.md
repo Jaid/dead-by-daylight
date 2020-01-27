@@ -25,7 +25,8 @@ npm install --save dead-by-daylight@^1.2.0
 yarn add dead-by-daylight@^1.2.0
 ```
 
-<a href="https://github.com/jaid/dead-by-daylight/packages"><img src="https://img.shields.io/badge/GitHub Packages-@jaid/dead--by--daylight-24282e?style=flat-square&logo=github" alt="@jaid/dead-by-daylight on GitHub Packages"/></a> <span style="vertical-align: top">(if <a style="vertical-align: top" href='https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages'>configured properly</a>)</span>
+<a href="https://github.com/jaid/dead-by-daylight/packages"><img src="https://img.shields.io/badge/GitHub Packages-@jaid/dead--by--daylight-24282e?style=flat-square&logo=github" alt="@jaid/dead-by-daylight on GitHub Packages"/></a>  
+(if [configured properly](https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages))
 
 ```bash
 npm install --save @jaid/dead-by-daylight@^1.2.0
