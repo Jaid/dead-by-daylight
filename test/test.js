@@ -10,17 +10,21 @@ const {default: deadByDaylight} = indexModule
 
 async function checkPaths() {
   const deadByDaylightFolder = process.env.deadByDaylightFolder || path.resolve("E:/Steam Library", "steamapps", "common", "Dead by Daylight", "DeadByDaylight", "Content")
+  let foundPaths = 0
   const pathsToCheck = [
     ...Object.values(deadByDaylight.perks).map(perk => perk.iconPath),
     ...Object.values(deadByDaylight.items).map(item => item.iconPath),
     ...Object.values(deadByDaylight.addOns).map(addOn => addOn.iconPath),
     ...Object.values(deadByDaylight.killers).map(killer => killer.powerIconPath),
+    ...Object.values(deadByDaylight.offerings).map(offering => offering.iconPath),
   ]
   const missingPaths = []
   const jobs = pathsToCheck.map(async pathToCheck => {
     const fullPath = path.join(deadByDaylightFolder, pathToCheck)
     const exists = await fsp.pathExists(fullPath)
-    if (!exists) {
+    if (exists) {
+      foundPaths++
+    } else {
       if (missingPaths.length === 0) {
         console.log(`Example missing path: ${fullPath}`)
       }
@@ -28,6 +32,7 @@ async function checkPaths() {
     }
   })
   await Promise.all(jobs)
+  console.log(`Found paths: ${foundPaths}`)
   expect(missingPaths).toStrictEqual([])
 }
 
