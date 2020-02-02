@@ -7,12 +7,13 @@ import rawEntries from "src/data/addOns?aot"
 function normalize(id, addOn) {
   const normalizedAddOn = {
     id,
-    title: addOn.title || titleCase(id),
+    shortId: addOn.shortId || id,
+    title: addOn.title || titleCase(addOn.shortId || id),
     visible: addOn.visible === undefined ? true : addOn.visible,
     rarity: addOn.rarity || "common",
     for: addOn.for,
     forType: addOn.type,
-    iconId: addOn.iconId || id,
+    iconId: addOn.iconId || addOn.shortId || id,
   }
   const iconFolder = addOn.iconFolder ? `${addOn.iconFolder}/` : ""
   normalizedAddOn.iconPath = addOn.iconPath || `UI/Icons/ItemAddons/${iconFolder}iconAddon_${normalizedAddOn.iconId}.png`
