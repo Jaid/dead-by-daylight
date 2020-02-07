@@ -36,13 +36,14 @@ npm install --save @jaid/dead-by-daylight@^1.10.0
 
 ## Example
 
+
 ```javascript
 import deadByDaylight from "dead-by-daylight"
 
 const result = deadByDaylight.perks.hauntedGround
 ```
 
-Variable `result` will now be:
+Variable `result` will be:
 
 ```javascript
 {
