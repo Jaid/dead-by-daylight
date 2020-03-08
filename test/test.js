@@ -40,7 +40,6 @@ it("should run", async () => {
   if (process.env.checkPaths) {
     await checkPaths()
   }
-  console.dir(deadByDaylight.perks.darkSense)
   expect(deadByDaylight.killers.wraith.realName).toBe("Philip Ojomo")
   expect(deadByDaylight.patches["3.4.0"].title).toBe("Cursed Legacy")
   expect(deadByDaylight.perks.hauntedGround.for).toBe("killer")
