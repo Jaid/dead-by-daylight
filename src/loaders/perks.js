@@ -23,7 +23,7 @@ function normalize(id, perk) {
     title: perk.title || titleCase(id),
     iconId: perk.iconId || id,
     owner: perk.owner || null,
-    rarity: getRarity(perk.level),
+    rarity: perk.rarity || getRarity(perk.level),
     for: perk.for || getOwnerType(perk.owner),
     visible: perk.visible === undefined ? true : perk.visible,
   }
