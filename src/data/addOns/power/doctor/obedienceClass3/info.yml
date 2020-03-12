@@ -1,4 +1,5 @@
 rarity: rare
 title: '"Obedience" - Class III'
 iconFolder: DLC4
-iconId: obedienceCartersNotes
+iconId: orderClassI
+visible: false
