@@ -69,6 +69,11 @@ Variable `result` will be:
 
 
 
+
+
+
+
+
 ## Legal
 
 Contains official Dead by Daylight content copied from the [Steam release](https://store.steampowered.com/app/381210). Copyright by [Behaviour Interactive](https://bhvr.com/).
