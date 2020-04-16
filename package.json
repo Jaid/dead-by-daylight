@@ -27,7 +27,7 @@
     "read-file-yaml": "^1.0.2",
     "rimraf": "^3.0.2",
     "upper-case-first": "^2.0.1",
-    "webpack-config-jaid": "^11.7.2",
+    "webpack-config-jaid": "^11.8.0",
     "yargs": "^15.3.1"
   },
   "scripts": {
