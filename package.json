@@ -50,5 +50,19 @@
     "url": "https://github.com/jaid/dead-by-daylight"
   },
   "homepage": "https://github.com/Jaid/dead-by-daylight",
-  "keywords": []
+  "keywords": [
+    "add-ons",
+    "data",
+    "dataset",
+    "dbd",
+    "dead-by-daylight",
+    "directory",
+    "items",
+    "json",
+    "killers",
+    "lib",
+    "library",
+    "perks",
+    "survivors"
+  ]
 }
