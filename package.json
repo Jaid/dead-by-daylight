@@ -21,7 +21,7 @@
     "eslint-config-jaid": "^1.49.0",
     "filter-nil": "^1.0.1",
     "globby": "^11.0.1",
-    "jest": "^26.4.0",
+    "jest": "^26.4.1",
     "moment": "^2.27.0",
     "read-file-yaml": "^1.0.2",
     "rimraf": "^3.0.2",
