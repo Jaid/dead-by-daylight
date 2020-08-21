@@ -1,3 +1,5 @@
+require("regenerator-runtime/runtime")
+
 const path = require("path")
 
 const arrayToObjectKeys = require("array-to-object-keys").parallel

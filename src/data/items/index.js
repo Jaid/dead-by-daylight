@@ -1,3 +1,5 @@
+require("regenerator-runtime/runtime")
+
 const path = require("path")
 
 const readFileYaml = require("read-file-yaml").default

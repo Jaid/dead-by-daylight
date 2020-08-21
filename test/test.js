@@ -1,3 +1,5 @@
+import "regenerator-runtime/runtime"
+
 import fsp from "@absolunet/fsp"
 import path from "path"
 
