@@ -5,7 +5,7 @@
   "dependencies": {
     "map-obj": "^4.1.0",
     "prevent-end": "^1.0.6",
-    "regenerator-runtime": "^0.13.5",
+    "regenerator-runtime": "^0.13.7",
     "sentence-case": "^3.0.3",
     "sort-object-entries": "^1.0.0",
     "title-case": "^3.0.2"
@@ -22,7 +22,7 @@
     "eslint-config-jaid": "^1.49.0",
     "filter-nil": "^1.0.1",
     "globby": "^11.0.1",
-    "jest": "^26.4.1",
+    "jest": "^26.4.2",
     "moment": "^2.27.0",
     "read-file-yaml": "^1.0.2",
     "rimraf": "^3.0.2",
