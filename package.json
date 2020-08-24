@@ -26,6 +26,7 @@
     "moment": "^2.27.0",
     "read-file-yaml": "^1.0.2",
     "rimraf": "^3.0.2",
+    "tsconfig-jaid": "^2.0.1",
     "upper-case-first": "^2.0.1",
     "webpack-config-jaid": "^11.12.1",
     "yargs": "^15.4.1"
