@@ -1,6 +1,6 @@
 {
   "webpackConfigJaid": "universalLib",
-  "version": "1.29.0",
+  "version": "1.30.0",
   "author": "Jaid <jaid.jsx@gmail.com> (https://github.com/Jaid)",
   "dependencies": {
     "map-obj": "^4.1.0",
