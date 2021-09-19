@@ -67,5 +67,6 @@
     "library",
     "perks",
     "survivors"
-  ]
+  ],
+  "type": "module"
 }
